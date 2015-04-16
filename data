@@ -1,0 +1,4477 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<countries>
+	<country country_id = "0" >
+		<name>Afghanistan</name>
+
+		<year_2010>
+			<GDP>8.4</GDP>
+		</year_2010>
+
+		<year_2011>
+			<GDP>6.1</GDP>
+		</year_2011>
+
+		<year_2012>
+			<GDP>14.4</GDP>
+		</year_2012>
+
+		<year_2013>
+			<GDP>1.9</GDP>
+		</year_2013>
+
+	</country>
+
+	<country country_id = "1" >
+		<name>Albania</name>
+
+		<year_2010>
+			<GDP>3.7</GDP>
+		</year_2010>
+
+		<year_2011>
+			<GDP>2.5</GDP>
+		</year_2011>
+
+		<year_2012>
+			<GDP>1.6</GDP>
+		</year_2012>
+
+		<year_2013>
+			<GDP>1.4</GDP>
+		</year_2013>
+
+	</country>
+
+	<country country_id = "2" >
+		<name>Algeria</name>
+
+		<year_2010>
+			<GDP>3.6</GDP>
+		</year_2010>
+
+		<year_2011>
+			<GDP>2.8</GDP>
+		</year_2011>
+
+		<year_2012>
+			<GDP>3.3</GDP>
+		</year_2012>
+
+		<year_2013>
+			<GDP>2.8</GDP>
+		</year_2013>
+
+	</country>
+
+	<country country_id = "3" >
+		<name>American Samoa</name>
+
+		<year_2010>
+			<GDP>N/A</GDP>
+		</year_2010>
+
+		<year_2011>
+			<GDP>N/A</GDP>
+		</year_2011>
+
+		<year_2012>
+			<GDP>N/A</GDP>
+		</year_2012>
+
+		<year_2013>
+			<GDP>N/A</GDP>
+		</year_2013>
+
+	</country>
+
+	<country country_id = "4" >
+		<name>Andorra</name>
+
+		<year_2010>
+			<GDP>N/A</GDP>
+		</year_2010>
+
+		<year_2011>
+			<GDP>N/A</GDP>
+		</year_2011>
+
+		<year_2012>
+			<GDP>N/A</GDP>
+		</year_2012>
+
+		<year_2013>
+			<GDP>N/A</GDP>
+		</year_2013>
+
+	</country>
+
+	<country country_id = "5" >
+		<name>Angola</name>
+
+		<year_2010>
+			<GDP>3.4</GDP>
+		</year_2010>
+
+		<year_2011>
+			<GDP>3.9</GDP>
+		</year_2011>
+
+		<year_2012>
+			<GDP>5.2</GDP>
+		</year_2012>
+
+		<year_2013>
+			<GDP>6.8</GDP>
+		</year_2013>
+
+	</country>
+
+	<country country_id = "6" >
+		<name>Antigua and Barbuda</name>
+
+		<year_2010>
+			<GDP>-7.1</GDP>
+		</year_2010>
+
+		<year_2011>
+			<GDP>-1.8</GDP>
+		</year_2011>
+
+		<year_2012>
+			<GDP>4.0</GDP>
+		</year_2012>
+
+		<year_2013>
+			<GDP>-0.1</GDP>
+		</year_2013>
+
+	</country>
+
+	<country country_id = "7" >
+		<name>Argentina</name>
+
+		<year_2010>
+			<GDP>9.1</GDP>
+		</year_2010>
+
+		<year_2011>
+			<GDP>8.6</GDP>
+		</year_2011>
+
+		<year_2012>
+			<GDP>0.9</GDP>
+		</year_2012>
+
+		<year_2013>
+			<GDP>2.9</GDP>
+		</year_2013>
+
+	</country>
+
+	<country country_id = "8" >
+		<name>Armenia</name>
+
+		<year_2010>
+			<GDP>2.2</GDP>
+		</year_2010>
+
+		<year_2011>
+			<GDP>4.7</GDP>
+		</year_2011>
+
+		<year_2012>
+			<GDP>7.2</GDP>
+		</year_2012>
+
+		<year_2013>
+			<GDP>3.5</GDP>
+		</year_2013>
+
+	</country>
+
+	<country country_id = "9" >
+		<name>Aruba</name>
+
+		<year_2010>
+			<GDP>N/A</GDP>
+		</year_2010>
+
+		<year_2011>
+			<GDP>N/A</GDP>
+		</year_2011>
+
+		<year_2012>
+			<GDP>N/A</GDP>
+		</year_2012>
+
+		<year_2013>
+			<GDP>N/A</GDP>
+		</year_2013>
+
+	</country>
+
+	<country country_id = "10" >
+		<name>Australia</name>
+
+		<year_2010>
+			<GDP>2.0</GDP>
+		</year_2010>
+
+		<year_2011>
+			<GDP>2.3</GDP>
+		</year_2011>
+
+		<year_2012>
+			<GDP>3.7</GDP>
+		</year_2012>
+
+		<year_2013>
+			<GDP>2.5</GDP>
+		</year_2013>
+
+	</country>
+
+	<country country_id = "11" >
+		<name>Austria</name>
+
+		<year_2010>
+			<GDP>1.9</GDP>
+		</year_2010>
+
+		<year_2011>
+			<GDP>3.1</GDP>
+		</year_2011>
+
+		<year_2012>
+			<GDP>0.9</GDP>
+		</year_2012>
+
+		<year_2013>
+			<GDP>0.2</GDP>
+		</year_2013>
+
+	</country>
+
+	<country country_id = "12" >
+		<name>Azerbaijan</name>
+
+		<year_2010>
+			<GDP>4.9</GDP>
+		</year_2010>
+
+		<year_2011>
+			<GDP>0.1</GDP>
+		</year_2011>
+
+		<year_2012>
+			<GDP>2.2</GDP>
+		</year_2012>
+
+		<year_2013>
+			<GDP>5.8</GDP>
+		</year_2013>
+
+	</country>
+
+	<country country_id = "13" >
+		<name>Bahamas, The</name>
+
+		<year_2010>
+			<GDP>1.5</GDP>
+		</year_2010>
+
+		<year_2011>
+			<GDP>1.1</GDP>
+		</year_2011>
+
+		<year_2012>
+			<GDP>1.0</GDP>
+		</year_2012>
+
+		<year_2013>
+			<GDP>0.7</GDP>
+		</year_2013>
+
+	</country>
+
+	<country country_id = "14" >
+		<name>Bahrain</name>
+
+		<year_2010>
+			<GDP>4.3</GDP>
+		</year_2010>
+
+		<year_2011>
+			<GDP>2.1</GDP>
+		</year_2011>
+
+		<year_2012>
+			<GDP>3.6</GDP>
+		</year_2012>
+
+		<year_2013>
+			<GDP>5.3</GDP>
+		</year_2013>
+
+	</country>
+
+	<country country_id = "15" >
+		<name>Bangladesh</name>
+
+		<year_2010>
+			<GDP>5.6</GDP>
+		</year_2010>
+
+		<year_2011>
+			<GDP>6.5</GDP>
+		</year_2011>
+
+		<year_2012>
+			<GDP>6.5</GDP>
+		</year_2012>
+
+		<year_2013>
+			<GDP>6.0</GDP>
+		</year_2013>
+
+	</country>
+
+	<country country_id = "16" >
+		<name>Barbados</name>
+
+		<year_2010>
+			<GDP>0.3</GDP>
+		</year_2010>
+
+		<year_2011>
+			<GDP>0.8</GDP>
+		</year_2011>
+
+		<year_2012>
+			<GDP>0.0</GDP>
+		</year_2012>
+
+		<year_2013>
+			<GDP>N/A</GDP>
+		</year_2013>
+
+	</country>
+
+	<country country_id = "17" >
+		<name>Belarus</name>
+
+		<year_2010>
+			<GDP>7.7</GDP>
+		</year_2010>
+
+		<year_2011>
+			<GDP>5.5</GDP>
+		</year_2011>
+
+		<year_2012>
+			<GDP>1.7</GDP>
+		</year_2012>
+
+		<year_2013>
+			<GDP>0.9</GDP>
+		</year_2013>
+
+	</country>
+
+	<country country_id = "18" >
+		<name>Belgium</name>
+
+		<year_2010>
+			<GDP>2.5</GDP>
+		</year_2010>
+
+		<year_2011>
+			<GDP>1.6</GDP>
+		</year_2011>
+
+		<year_2012>
+			<GDP>0.1</GDP>
+		</year_2012>
+
+		<year_2013>
+			<GDP>0.3</GDP>
+		</year_2013>
+
+	</country>
+
+	<country country_id = "19" >
+		<name>Belize</name>
+
+		<year_2010>
+			<GDP>3.3</GDP>
+		</year_2010>
+
+		<year_2011>
+			<GDP>2.1</GDP>
+		</year_2011>
+
+		<year_2012>
+			<GDP>3.8</GDP>
+		</year_2012>
+
+		<year_2013>
+			<GDP>1.5</GDP>
+		</year_2013>
+
+	</country>
+
+	<country country_id = "20" >
+		<name>Benin</name>
+
+		<year_2010>
+			<GDP>2.6</GDP>
+		</year_2010>
+
+		<year_2011>
+			<GDP>3.3</GDP>
+		</year_2011>
+
+		<year_2012>
+			<GDP>5.4</GDP>
+		</year_2012>
+
+		<year_2013>
+			<GDP>5.6</GDP>
+		</year_2013>
+
+	</country>
+
+	<country country_id = "21" >
+		<name>Bermuda</name>
+
+		<year_2010>
+			<GDP>-2.1</GDP>
+		</year_2010>
+
+		<year_2011>
+			<GDP>-3.3</GDP>
+		</year_2011>
+
+		<year_2012>
+			<GDP>-4.9</GDP>
+		</year_2012>
+
+		<year_2013>
+			<GDP>N/A</GDP>
+		</year_2013>
+
+	</country>
+
+	<country country_id = "22" >
+		<name>Bhutan</name>
+
+		<year_2010>
+			<GDP>11.7</GDP>
+		</year_2010>
+
+		<year_2011>
+			<GDP>7.9</GDP>
+		</year_2011>
+
+		<year_2012>
+			<GDP>5.1</GDP>
+		</year_2012>
+
+		<year_2013>
+			<GDP>2.0</GDP>
+		</year_2013>
+
+	</country>
+
+	<country country_id = "23" >
+		<name>Bolivia</name>
+
+		<year_2010>
+			<GDP>4.1</GDP>
+		</year_2010>
+
+		<year_2011>
+			<GDP>5.2</GDP>
+		</year_2011>
+
+		<year_2012>
+			<GDP>5.2</GDP>
+		</year_2012>
+
+		<year_2013>
+			<GDP>6.8</GDP>
+		</year_2013>
+
+	</country>
+
+	<country country_id = "24" >
+		<name>Bosnia and Herzegovina</name>
+
+		<year_2010>
+			<GDP>0.7</GDP>
+		</year_2010>
+
+		<year_2011>
+			<GDP>1.0</GDP>
+		</year_2011>
+
+		<year_2012>
+			<GDP>-1.2</GDP>
+		</year_2012>
+
+		<year_2013>
+			<GDP>2.5</GDP>
+		</year_2013>
+
+	</country>
+
+	<country country_id = "25" >
+		<name>Botswana</name>
+
+		<year_2010>
+			<GDP>8.6</GDP>
+		</year_2010>
+
+		<year_2011>
+			<GDP>6.2</GDP>
+		</year_2011>
+
+		<year_2012>
+			<GDP>4.3</GDP>
+		</year_2012>
+
+		<year_2013>
+			<GDP>5.8</GDP>
+		</year_2013>
+
+	</country>
+
+	<country country_id = "26" >
+		<name>Brazil</name>
+
+		<year_2010>
+			<GDP>7.5</GDP>
+		</year_2010>
+
+		<year_2011>
+			<GDP>2.7</GDP>
+		</year_2011>
+
+		<year_2012>
+			<GDP>1.0</GDP>
+		</year_2012>
+
+		<year_2013>
+			<GDP>2.5</GDP>
+		</year_2013>
+
+	</country>
+
+	<country country_id = "27" >
+		<name>Brunei Darussalam</name>
+
+		<year_2010>
+			<GDP>2.6</GDP>
+		</year_2010>
+
+		<year_2011>
+			<GDP>3.4</GDP>
+		</year_2011>
+
+		<year_2012>
+			<GDP>0.9</GDP>
+		</year_2012>
+
+		<year_2013>
+			<GDP>-1.8</GDP>
+		</year_2013>
+
+	</country>
+
+	<country country_id = "28" >
+		<name>Bulgaria</name>
+
+		<year_2010>
+			<GDP>0.7</GDP>
+		</year_2010>
+
+		<year_2011>
+			<GDP>2.0</GDP>
+		</year_2011>
+
+		<year_2012>
+			<GDP>0.5</GDP>
+		</year_2012>
+
+		<year_2013>
+			<GDP>1.1</GDP>
+		</year_2013>
+
+	</country>
+
+	<country country_id = "29" >
+		<name>Burkina</name>
+
+		<year_2010>
+			<GDP>0.0</GDP>
+		</year_2010>
+
+		<year_2011>
+			<GDP>0.0</GDP>
+		</year_2011>
+
+		<year_2012>
+			<GDP>0.0</GDP>
+		</year_2012>
+
+		<year_2013>
+			<GDP>0.0</GDP>
+		</year_2013>
+
+	</country>
+
+	<country country_id = "30" >
+		<name>Burundi</name>
+
+		<year_2010>
+			<GDP>3.8</GDP>
+		</year_2010>
+
+		<year_2011>
+			<GDP>4.2</GDP>
+		</year_2011>
+
+		<year_2012>
+			<GDP>4.0</GDP>
+		</year_2012>
+
+		<year_2013>
+			<GDP>4.6</GDP>
+		</year_2013>
+
+	</country>
+
+	<country country_id = "31" >
+		<name>Cabo Verde</name>
+
+		<year_2010>
+			<GDP>1.5</GDP>
+		</year_2010>
+
+		<year_2011>
+			<GDP>4.0</GDP>
+		</year_2011>
+
+		<year_2012>
+			<GDP>1.2</GDP>
+		</year_2012>
+
+		<year_2013>
+			<GDP>0.5</GDP>
+		</year_2013>
+
+	</country>
+
+	<country country_id = "32" >
+		<name>Cambodia</name>
+
+		<year_2010>
+			<GDP>6.0</GDP>
+		</year_2010>
+
+		<year_2011>
+			<GDP>7.1</GDP>
+		</year_2011>
+
+		<year_2012>
+			<GDP>7.3</GDP>
+		</year_2012>
+
+		<year_2013>
+			<GDP>7.4</GDP>
+		</year_2013>
+
+	</country>
+
+	<country country_id = "33" >
+		<name>Cameroon</name>
+
+		<year_2010>
+			<GDP>3.3</GDP>
+		</year_2010>
+
+		<year_2011>
+			<GDP>4.1</GDP>
+		</year_2011>
+
+		<year_2012>
+			<GDP>4.6</GDP>
+		</year_2012>
+
+		<year_2013>
+			<GDP>5.6</GDP>
+		</year_2013>
+
+	</country>
+
+	<country country_id = "34" >
+		<name>Canada</name>
+
+		<year_2010>
+			<GDP>3.4</GDP>
+		</year_2010>
+
+		<year_2011>
+			<GDP>2.5</GDP>
+		</year_2011>
+
+		<year_2012>
+			<GDP>1.7</GDP>
+		</year_2012>
+
+		<year_2013>
+			<GDP>2.0</GDP>
+		</year_2013>
+
+	</country>
+
+	<country country_id = "35" >
+		<name>Cayman Islands</name>
+
+		<year_2010>
+			<GDP>N/A</GDP>
+		</year_2010>
+
+		<year_2011>
+			<GDP>N/A</GDP>
+		</year_2011>
+
+		<year_2012>
+			<GDP>N/A</GDP>
+		</year_2012>
+
+		<year_2013>
+			<GDP>N/A</GDP>
+		</year_2013>
+
+	</country>
+
+	<country country_id = "36" >
+		<name>Central African Republic</name>
+
+		<year_2010>
+			<GDP>6.6</GDP>
+		</year_2010>
+
+		<year_2011>
+			<GDP>3.3</GDP>
+		</year_2011>
+
+		<year_2012>
+			<GDP>4.1</GDP>
+		</year_2012>
+
+		<year_2013>
+			<GDP>-36.0</GDP>
+		</year_2013>
+
+	</country>
+
+	<country country_id = "37" >
+		<name>Chad</name>
+
+		<year_2010>
+			<GDP>13.6</GDP>
+		</year_2010>
+
+		<year_2011>
+			<GDP>0.1</GDP>
+		</year_2011>
+
+		<year_2012>
+			<GDP>8.9</GDP>
+		</year_2012>
+
+		<year_2013>
+			<GDP>4.0</GDP>
+		</year_2013>
+
+	</country>
+
+	<country country_id = "38" >
+		<name>Chile</name>
+
+		<year_2010>
+			<GDP>5.8</GDP>
+		</year_2010>
+
+		<year_2011>
+			<GDP>5.8</GDP>
+		</year_2011>
+
+		<year_2012>
+			<GDP>5.4</GDP>
+		</year_2012>
+
+		<year_2013>
+			<GDP>4.1</GDP>
+		</year_2013>
+
+	</country>
+
+	<country country_id = "39" >
+		<name>China</name>
+
+		<year_2010>
+			<GDP>10.4</GDP>
+		</year_2010>
+
+		<year_2011>
+			<GDP>9.3</GDP>
+		</year_2011>
+
+		<year_2012>
+			<GDP>7.7</GDP>
+		</year_2012>
+
+		<year_2013>
+			<GDP>7.7</GDP>
+		</year_2013>
+
+	</country>
+
+	<country country_id = "40" >
+		<name>Colombia</name>
+
+		<year_2010>
+			<GDP>4.0</GDP>
+		</year_2010>
+
+		<year_2011>
+			<GDP>6.6</GDP>
+		</year_2011>
+
+		<year_2012>
+			<GDP>4.0</GDP>
+		</year_2012>
+
+		<year_2013>
+			<GDP>4.7</GDP>
+		</year_2013>
+
+	</country>
+
+	<country country_id = "41" >
+		<name>Comoros</name>
+
+		<year_2010>
+			<GDP>2.2</GDP>
+		</year_2010>
+
+		<year_2011>
+			<GDP>2.6</GDP>
+		</year_2011>
+
+		<year_2012>
+			<GDP>3.0</GDP>
+		</year_2012>
+
+		<year_2013>
+			<GDP>3.5</GDP>
+		</year_2013>
+
+	</country>
+
+	<country country_id = "42" >
+		<name>Congo, Dem. Rep.</name>
+
+		<year_2010>
+			<GDP>7.1</GDP>
+		</year_2010>
+
+		<year_2011>
+			<GDP>6.9</GDP>
+		</year_2011>
+
+		<year_2012>
+			<GDP>7.1</GDP>
+		</year_2012>
+
+		<year_2013>
+			<GDP>8.5</GDP>
+		</year_2013>
+
+	</country>
+
+	<country country_id = "43" >
+		<name>Congo, Rep.</name>
+
+		<year_2010>
+			<GDP>8.8</GDP>
+		</year_2010>
+
+		<year_2011>
+			<GDP>3.4</GDP>
+		</year_2011>
+
+		<year_2012>
+			<GDP>3.8</GDP>
+		</year_2012>
+
+		<year_2013>
+			<GDP>3.4</GDP>
+		</year_2013>
+
+	</country>
+
+	<country country_id = "44" >
+		<name>Costa Rica</name>
+
+		<year_2010>
+			<GDP>5.0</GDP>
+		</year_2010>
+
+		<year_2011>
+			<GDP>4.5</GDP>
+		</year_2011>
+
+		<year_2012>
+			<GDP>5.1</GDP>
+		</year_2012>
+
+		<year_2013>
+			<GDP>3.5</GDP>
+		</year_2013>
+
+	</country>
+
+	<country country_id = "45" >
+		<name>Cote d'Ivoire</name>
+
+		<year_2010>
+			<GDP>2.0</GDP>
+		</year_2010>
+
+		<year_2011>
+			<GDP>-4.4</GDP>
+		</year_2011>
+
+		<year_2012>
+			<GDP>10.7</GDP>
+		</year_2012>
+
+		<year_2013>
+			<GDP>8.7</GDP>
+		</year_2013>
+
+	</country>
+
+	<country country_id = "46" >
+		<name>Croatia</name>
+
+		<year_2010>
+			<GDP>-1.7</GDP>
+		</year_2010>
+
+		<year_2011>
+			<GDP>-0.3</GDP>
+		</year_2011>
+
+		<year_2012>
+			<GDP>-2.2</GDP>
+		</year_2012>
+
+		<year_2013>
+			<GDP>-0.9</GDP>
+		</year_2013>
+
+	</country>
+
+	<country country_id = "47" >
+		<name>Cuba</name>
+
+		<year_2010>
+			<GDP>2.4</GDP>
+		</year_2010>
+
+		<year_2011>
+			<GDP>2.7</GDP>
+		</year_2011>
+
+		<year_2012>
+			<GDP>N/A</GDP>
+		</year_2012>
+
+		<year_2013>
+			<GDP>N/A</GDP>
+		</year_2013>
+
+	</country>
+
+	<country country_id = "48" >
+		<name>Curacao</name>
+
+		<year_2010>
+			<GDP>N/A</GDP>
+		</year_2010>
+
+		<year_2011>
+			<GDP>N/A</GDP>
+		</year_2011>
+
+		<year_2012>
+			<GDP>N/A</GDP>
+		</year_2012>
+
+		<year_2013>
+			<GDP>N/A</GDP>
+		</year_2013>
+
+	</country>
+
+	<country country_id = "49" >
+		<name>Cyprus</name>
+
+		<year_2010>
+			<GDP>1.3</GDP>
+		</year_2010>
+
+		<year_2011>
+			<GDP>0.4</GDP>
+		</year_2011>
+
+		<year_2012>
+			<GDP>-2.4</GDP>
+		</year_2012>
+
+		<year_2013>
+			<GDP>-5.4</GDP>
+		</year_2013>
+
+	</country>
+
+	<country country_id = "50" >
+		<name>Czech Republic</name>
+
+		<year_2010>
+			<GDP>2.3</GDP>
+		</year_2010>
+
+		<year_2011>
+			<GDP>2.0</GDP>
+		</year_2011>
+
+		<year_2012>
+			<GDP>-0.8</GDP>
+		</year_2012>
+
+		<year_2013>
+			<GDP>-0.7</GDP>
+		</year_2013>
+
+	</country>
+
+	<country country_id = "51" >
+		<name>Denmark</name>
+
+		<year_2010>
+			<GDP>1.6</GDP>
+		</year_2010>
+
+		<year_2011>
+			<GDP>1.2</GDP>
+		</year_2011>
+
+		<year_2012>
+			<GDP>-0.7</GDP>
+		</year_2012>
+
+		<year_2013>
+			<GDP>-0.5</GDP>
+		</year_2013>
+
+	</country>
+
+	<country country_id = "52" >
+		<name>Djibouti</name>
+
+		<year_2010>
+			<GDP>4.5</GDP>
+		</year_2010>
+
+		<year_2011>
+			<GDP>5.4</GDP>
+		</year_2011>
+
+		<year_2012>
+			<GDP>3.0</GDP>
+		</year_2012>
+
+		<year_2013>
+			<GDP>5.0</GDP>
+		</year_2013>
+
+	</country>
+
+	<country country_id = "53" >
+		<name>Dominica</name>
+
+		<year_2010>
+			<GDP>1.1</GDP>
+		</year_2010>
+
+		<year_2011>
+			<GDP>-0.1</GDP>
+		</year_2011>
+
+		<year_2012>
+			<GDP>-1.4</GDP>
+		</year_2012>
+
+		<year_2013>
+			<GDP>-0.9</GDP>
+		</year_2013>
+
+	</country>
+
+	<country country_id = "54" >
+		<name>Dominican Republic</name>
+
+		<year_2010>
+			<GDP>8.3</GDP>
+		</year_2010>
+
+		<year_2011>
+			<GDP>2.9</GDP>
+		</year_2011>
+
+		<year_2012>
+			<GDP>2.7</GDP>
+		</year_2012>
+
+		<year_2013>
+			<GDP>4.6</GDP>
+		</year_2013>
+
+	</country>
+
+	<country country_id = "55" >
+		<name>Ecuador</name>
+
+		<year_2010>
+			<GDP>3.5</GDP>
+		</year_2010>
+
+		<year_2011>
+			<GDP>7.9</GDP>
+		</year_2011>
+
+		<year_2012>
+			<GDP>5.2</GDP>
+		</year_2012>
+
+		<year_2013>
+			<GDP>4.6</GDP>
+		</year_2013>
+
+	</country>
+
+	<country country_id = "56" >
+		<name>Egypt, Arab</name>
+
+		<year_2010>
+			<GDP>0.0</GDP>
+		</year_2010>
+
+		<year_2011>
+			<GDP>0.0</GDP>
+		</year_2011>
+
+		<year_2012>
+			<GDP>0.0</GDP>
+		</year_2012>
+
+		<year_2013>
+			<GDP>0.0</GDP>
+		</year_2013>
+
+	</country>
+
+	<country country_id = "57" >
+		<name>El Salvador</name>
+
+		<year_2010>
+			<GDP>1.4</GDP>
+		</year_2010>
+
+		<year_2011>
+			<GDP>2.2</GDP>
+		</year_2011>
+
+		<year_2012>
+			<GDP>1.9</GDP>
+		</year_2012>
+
+		<year_2013>
+			<GDP>1.7</GDP>
+		</year_2013>
+
+	</country>
+
+	<country country_id = "58" >
+		<name>Equatorial Guinea</name>
+
+		<year_2010>
+			<GDP>-1.3</GDP>
+		</year_2010>
+
+		<year_2011>
+			<GDP>5.0</GDP>
+		</year_2011>
+
+		<year_2012>
+			<GDP>3.2</GDP>
+		</year_2012>
+
+		<year_2013>
+			<GDP>-4.8</GDP>
+		</year_2013>
+
+	</country>
+
+	<country country_id = "59" >
+		<name>Eritrea</name>
+
+		<year_2010>
+			<GDP>2.2</GDP>
+		</year_2010>
+
+		<year_2011>
+			<GDP>8.7</GDP>
+		</year_2011>
+
+		<year_2012>
+			<GDP>7.0</GDP>
+		</year_2012>
+
+		<year_2013>
+			<GDP>1.3</GDP>
+		</year_2013>
+
+	</country>
+
+	<country country_id = "60" >
+		<name>Estonia</name>
+
+		<year_2010>
+			<GDP>2.5</GDP>
+		</year_2010>
+
+		<year_2011>
+			<GDP>8.3</GDP>
+		</year_2011>
+
+		<year_2012>
+			<GDP>4.7</GDP>
+		</year_2012>
+
+		<year_2013>
+			<GDP>1.6</GDP>
+		</year_2013>
+
+	</country>
+
+	<country country_id = "61" >
+		<name>Ethiopia</name>
+
+		<year_2010>
+			<GDP>12.6</GDP>
+		</year_2010>
+
+		<year_2011>
+			<GDP>11.2</GDP>
+		</year_2011>
+
+		<year_2012>
+			<GDP>8.6</GDP>
+		</year_2012>
+
+		<year_2013>
+			<GDP>10.5</GDP>
+		</year_2013>
+
+	</country>
+
+	<country country_id = "62" >
+		<name>Faeroe Islands</name>
+
+		<year_2010>
+			<GDP>N/A</GDP>
+		</year_2010>
+
+		<year_2011>
+			<GDP>N/A</GDP>
+		</year_2011>
+
+		<year_2012>
+			<GDP>N/A</GDP>
+		</year_2012>
+
+		<year_2013>
+			<GDP>N/A</GDP>
+		</year_2013>
+
+	</country>
+
+	<country country_id = "63" >
+		<name>Fiji</name>
+
+		<year_2010>
+			<GDP>3.0</GDP>
+		</year_2010>
+
+		<year_2011>
+			<GDP>2.7</GDP>
+		</year_2011>
+
+		<year_2012>
+			<GDP>1.8</GDP>
+		</year_2012>
+
+		<year_2013>
+			<GDP>3.5</GDP>
+		</year_2013>
+
+	</country>
+
+	<country country_id = "64" >
+		<name>Finland</name>
+
+		<year_2010>
+			<GDP>3.0</GDP>
+		</year_2010>
+
+		<year_2011>
+			<GDP>2.6</GDP>
+		</year_2011>
+
+		<year_2012>
+			<GDP>-1.5</GDP>
+		</year_2012>
+
+		<year_2013>
+			<GDP>-1.2</GDP>
+		</year_2013>
+
+	</country>
+
+	<country country_id = "65" >
+		<name>France</name>
+
+		<year_2010>
+			<GDP>2.0</GDP>
+		</year_2010>
+
+		<year_2011>
+			<GDP>2.1</GDP>
+		</year_2011>
+
+		<year_2012>
+			<GDP>0.3</GDP>
+		</year_2012>
+
+		<year_2013>
+			<GDP>0.3</GDP>
+		</year_2013>
+
+	</country>
+
+	<country country_id = "66" >
+		<name>French Polynesia</name>
+
+		<year_2010>
+			<GDP>N/A</GDP>
+		</year_2010>
+
+		<year_2011>
+			<GDP>N/A</GDP>
+		</year_2011>
+
+		<year_2012>
+			<GDP>N/A</GDP>
+		</year_2012>
+
+		<year_2013>
+			<GDP>N/A</GDP>
+		</year_2013>
+
+	</country>
+
+	<country country_id = "67" >
+		<name>Gabon</name>
+
+		<year_2010>
+			<GDP>6.7</GDP>
+		</year_2010>
+
+		<year_2011>
+			<GDP>7.1</GDP>
+		</year_2011>
+
+		<year_2012>
+			<GDP>5.6</GDP>
+		</year_2012>
+
+		<year_2013>
+			<GDP>5.9</GDP>
+		</year_2013>
+
+	</country>
+
+	<country country_id = "68" >
+		<name>Gambia, The</name>
+
+		<year_2010>
+			<GDP>6.5</GDP>
+		</year_2010>
+
+		<year_2011>
+			<GDP>-4.3</GDP>
+		</year_2011>
+
+		<year_2012>
+			<GDP>5.9</GDP>
+		</year_2012>
+
+		<year_2013>
+			<GDP>4.8</GDP>
+		</year_2013>
+
+	</country>
+
+	<country country_id = "69" >
+		<name>Georgia</name>
+
+		<year_2010>
+			<GDP>6.3</GDP>
+		</year_2010>
+
+		<year_2011>
+			<GDP>7.2</GDP>
+		</year_2011>
+
+		<year_2012>
+			<GDP>6.2</GDP>
+		</year_2012>
+
+		<year_2013>
+			<GDP>3.3</GDP>
+		</year_2013>
+
+	</country>
+
+	<country country_id = "70" >
+		<name>Germany</name>
+
+		<year_2010>
+			<GDP>4.1</GDP>
+		</year_2010>
+
+		<year_2011>
+			<GDP>3.6</GDP>
+		</year_2011>
+
+		<year_2012>
+			<GDP>0.4</GDP>
+		</year_2012>
+
+		<year_2013>
+			<GDP>0.1</GDP>
+		</year_2013>
+
+	</country>
+
+	<country country_id = "71" >
+		<name>Ghana</name>
+
+		<year_2010>
+			<GDP>8.0</GDP>
+		</year_2010>
+
+		<year_2011>
+			<GDP>15.0</GDP>
+		</year_2011>
+
+		<year_2012>
+			<GDP>8.8</GDP>
+		</year_2012>
+
+		<year_2013>
+			<GDP>7.6</GDP>
+		</year_2013>
+
+	</country>
+
+	<country country_id = "72" >
+		<name>Greece</name>
+
+		<year_2010>
+			<GDP>-5.4</GDP>
+		</year_2010>
+
+		<year_2011>
+			<GDP>-8.9</GDP>
+		</year_2011>
+
+		<year_2012>
+			<GDP>-6.6</GDP>
+		</year_2012>
+
+		<year_2013>
+			<GDP>-3.3</GDP>
+		</year_2013>
+
+	</country>
+
+	<country country_id = "73" >
+		<name>Greenland</name>
+
+		<year_2010>
+			<GDP>N/A</GDP>
+		</year_2010>
+
+		<year_2011>
+			<GDP>N/A</GDP>
+		</year_2011>
+
+		<year_2012>
+			<GDP>N/A</GDP>
+		</year_2012>
+
+		<year_2013>
+			<GDP>N/A</GDP>
+		</year_2013>
+
+	</country>
+
+	<country country_id = "74" >
+		<name>Grenada</name>
+
+		<year_2010>
+			<GDP>-0.5</GDP>
+		</year_2010>
+
+		<year_2011>
+			<GDP>0.8</GDP>
+		</year_2011>
+
+		<year_2012>
+			<GDP>-1.2</GDP>
+		</year_2012>
+
+		<year_2013>
+			<GDP>2.4</GDP>
+		</year_2013>
+
+	</country>
+
+	<country country_id = "75" >
+		<name>Guam</name>
+
+		<year_2010>
+			<GDP>N/A</GDP>
+		</year_2010>
+
+		<year_2011>
+			<GDP>N/A</GDP>
+		</year_2011>
+
+		<year_2012>
+			<GDP>N/A</GDP>
+		</year_2012>
+
+		<year_2013>
+			<GDP>N/A</GDP>
+		</year_2013>
+
+	</country>
+
+	<country country_id = "76" >
+		<name>Guatemala</name>
+
+		<year_2010>
+			<GDP>2.9</GDP>
+		</year_2010>
+
+		<year_2011>
+			<GDP>4.2</GDP>
+		</year_2011>
+
+		<year_2012>
+			<GDP>3.0</GDP>
+		</year_2012>
+
+		<year_2013>
+			<GDP>3.7</GDP>
+		</year_2013>
+
+	</country>
+
+	<country country_id = "77" >
+		<name>Guinea</name>
+
+		<year_2010>
+			<GDP>1.9</GDP>
+		</year_2010>
+
+		<year_2011>
+			<GDP>3.9</GDP>
+		</year_2011>
+
+		<year_2012>
+			<GDP>3.9</GDP>
+		</year_2012>
+
+		<year_2013>
+			<GDP>2.3</GDP>
+		</year_2013>
+
+	</country>
+
+	<country country_id = "78" >
+		<name>Guinea-Bissau</name>
+
+		<year_2010>
+			<GDP>4.4</GDP>
+		</year_2010>
+
+		<year_2011>
+			<GDP>9.0</GDP>
+		</year_2011>
+
+		<year_2012>
+			<GDP>-2.2</GDP>
+		</year_2012>
+
+		<year_2013>
+			<GDP>0.3</GDP>
+		</year_2013>
+
+	</country>
+
+	<country country_id = "79" >
+		<name>Guyana</name>
+
+		<year_2010>
+			<GDP>4.4</GDP>
+		</year_2010>
+
+		<year_2011>
+			<GDP>5.4</GDP>
+		</year_2011>
+
+		<year_2012>
+			<GDP>4.8</GDP>
+		</year_2012>
+
+		<year_2013>
+			<GDP>5.2</GDP>
+		</year_2013>
+
+	</country>
+
+	<country country_id = "80" >
+		<name>Haiti</name>
+
+		<year_2010>
+			<GDP>-5.5</GDP>
+		</year_2010>
+
+		<year_2011>
+			<GDP>5.5</GDP>
+		</year_2011>
+
+		<year_2012>
+			<GDP>2.9</GDP>
+		</year_2012>
+
+		<year_2013>
+			<GDP>4.3</GDP>
+		</year_2013>
+
+	</country>
+
+	<country country_id = "81" >
+		<name>Honduras</name>
+
+		<year_2010>
+			<GDP>3.7</GDP>
+		</year_2010>
+
+		<year_2011>
+			<GDP>3.8</GDP>
+		</year_2011>
+
+		<year_2012>
+			<GDP>3.9</GDP>
+		</year_2012>
+
+		<year_2013>
+			<GDP>2.6</GDP>
+		</year_2013>
+
+	</country>
+
+	<country country_id = "82" >
+		<name>Hong</name>
+
+		<year_2010>
+			<GDP>0.0</GDP>
+		</year_2010>
+
+		<year_2011>
+			<GDP>0.0</GDP>
+		</year_2011>
+
+		<year_2012>
+			<GDP>0.0</GDP>
+		</year_2012>
+
+		<year_2013>
+			<GDP>0.0</GDP>
+		</year_2013>
+
+	</country>
+
+	<country country_id = "83" >
+		<name>Hungary</name>
+
+		<year_2010>
+			<GDP>0.8</GDP>
+		</year_2010>
+
+		<year_2011>
+			<GDP>1.8</GDP>
+		</year_2011>
+
+		<year_2012>
+			<GDP>-1.5</GDP>
+		</year_2012>
+
+		<year_2013>
+			<GDP>1.5</GDP>
+		</year_2013>
+
+	</country>
+
+	<country country_id = "84" >
+		<name>Iceland</name>
+
+		<year_2010>
+			<GDP>-2.9</GDP>
+		</year_2010>
+
+		<year_2011>
+			<GDP>2.1</GDP>
+		</year_2011>
+
+		<year_2012>
+			<GDP>1.1</GDP>
+		</year_2012>
+
+		<year_2013>
+			<GDP>3.5</GDP>
+		</year_2013>
+
+	</country>
+
+	<country country_id = "85" >
+		<name>India</name>
+
+		<year_2010>
+			<GDP>10.3</GDP>
+		</year_2010>
+
+		<year_2011>
+			<GDP>6.6</GDP>
+		</year_2011>
+
+		<year_2012>
+			<GDP>5.1</GDP>
+		</year_2012>
+
+		<year_2013>
+			<GDP>6.9</GDP>
+		</year_2013>
+
+	</country>
+
+	<country country_id = "86" >
+		<name>Indonesia</name>
+
+		<year_2010>
+			<GDP>6.2</GDP>
+		</year_2010>
+
+		<year_2011>
+			<GDP>6.5</GDP>
+		</year_2011>
+
+		<year_2012>
+			<GDP>6.3</GDP>
+		</year_2012>
+
+		<year_2013>
+			<GDP>5.8</GDP>
+		</year_2013>
+
+	</country>
+
+	<country country_id = "87" >
+		<name>Iran, Islamic</name>
+
+		<year_2010>
+			<GDP>0.0</GDP>
+		</year_2010>
+
+		<year_2011>
+			<GDP>0.0</GDP>
+		</year_2011>
+
+		<year_2012>
+			<GDP>0.0</GDP>
+		</year_2012>
+
+		<year_2013>
+			<GDP>0.0</GDP>
+		</year_2013>
+
+	</country>
+
+	<country country_id = "88" >
+		<name>Iraq</name>
+
+		<year_2010>
+			<GDP>5.5</GDP>
+		</year_2010>
+
+		<year_2011>
+			<GDP>10.2</GDP>
+		</year_2011>
+
+		<year_2012>
+			<GDP>10.3</GDP>
+		</year_2012>
+
+		<year_2013>
+			<GDP>4.2</GDP>
+		</year_2013>
+
+	</country>
+
+	<country country_id = "89" >
+		<name>Ireland</name>
+
+		<year_2010>
+			<GDP>-0.3</GDP>
+		</year_2010>
+
+		<year_2011>
+			<GDP>2.8</GDP>
+		</year_2011>
+
+		<year_2012>
+			<GDP>-0.3</GDP>
+		</year_2012>
+
+		<year_2013>
+			<GDP>0.2</GDP>
+		</year_2013>
+
+	</country>
+
+	<country country_id = "90" >
+		<name>Isle of Man</name>
+
+		<year_2010>
+			<GDP>N/A</GDP>
+		</year_2010>
+
+		<year_2011>
+			<GDP>N/A</GDP>
+		</year_2011>
+
+		<year_2012>
+			<GDP>N/A</GDP>
+		</year_2012>
+
+		<year_2013>
+			<GDP>N/A</GDP>
+		</year_2013>
+
+	</country>
+
+	<country country_id = "91" >
+		<name>Israel</name>
+
+		<year_2010>
+			<GDP>5.8</GDP>
+		</year_2010>
+
+		<year_2011>
+			<GDP>4.2</GDP>
+		</year_2011>
+
+		<year_2012>
+			<GDP>3.0</GDP>
+		</year_2012>
+
+		<year_2013>
+			<GDP>3.2</GDP>
+		</year_2013>
+
+	</country>
+
+	<country country_id = "92" >
+		<name>Italy</name>
+
+		<year_2010>
+			<GDP>1.7</GDP>
+		</year_2010>
+
+		<year_2011>
+			<GDP>0.6</GDP>
+		</year_2011>
+
+		<year_2012>
+			<GDP>-2.3</GDP>
+		</year_2012>
+
+		<year_2013>
+			<GDP>-1.9</GDP>
+		</year_2013>
+
+	</country>
+
+	<country country_id = "93" >
+		<name>Jamaica</name>
+
+		<year_2010>
+			<GDP>-1.5</GDP>
+		</year_2010>
+
+		<year_2011>
+			<GDP>1.7</GDP>
+		</year_2011>
+
+		<year_2012>
+			<GDP>0.7</GDP>
+		</year_2012>
+
+		<year_2013>
+			<GDP>1.3</GDP>
+		</year_2013>
+
+	</country>
+
+	<country country_id = "94" >
+		<name>Japan</name>
+
+		<year_2010>
+			<GDP>4.7</GDP>
+		</year_2010>
+
+		<year_2011>
+			<GDP>-0.5</GDP>
+		</year_2011>
+
+		<year_2012>
+			<GDP>1.8</GDP>
+		</year_2012>
+
+		<year_2013>
+			<GDP>1.6</GDP>
+		</year_2013>
+
+	</country>
+
+	<country country_id = "95" >
+		<name>Jordan</name>
+
+		<year_2010>
+			<GDP>2.3</GDP>
+		</year_2010>
+
+		<year_2011>
+			<GDP>2.6</GDP>
+		</year_2011>
+
+		<year_2012>
+			<GDP>2.7</GDP>
+		</year_2012>
+
+		<year_2013>
+			<GDP>2.8</GDP>
+		</year_2013>
+
+	</country>
+
+	<country country_id = "96" >
+		<name>Kazakhstan</name>
+
+		<year_2010>
+			<GDP>7.3</GDP>
+		</year_2010>
+
+		<year_2011>
+			<GDP>7.5</GDP>
+		</year_2011>
+
+		<year_2012>
+			<GDP>5.0</GDP>
+		</year_2012>
+
+		<year_2013>
+			<GDP>6.0</GDP>
+		</year_2013>
+
+	</country>
+
+	<country country_id = "97" >
+		<name>Kenya</name>
+
+		<year_2010>
+			<GDP>8.4</GDP>
+		</year_2010>
+
+		<year_2011>
+			<GDP>6.1</GDP>
+		</year_2011>
+
+		<year_2012>
+			<GDP>4.5</GDP>
+		</year_2012>
+
+		<year_2013>
+			<GDP>5.7</GDP>
+		</year_2013>
+
+	</country>
+
+	<country country_id = "98" >
+		<name>Kiribati</name>
+
+		<year_2010>
+			<GDP>-0.5</GDP>
+		</year_2010>
+
+		<year_2011>
+			<GDP>2.7</GDP>
+		</year_2011>
+
+		<year_2012>
+			<GDP>2.8</GDP>
+		</year_2012>
+
+		<year_2013>
+			<GDP>3.0</GDP>
+		</year_2013>
+
+	</country>
+
+	<country country_id = "99" >
+		<name>Korea, Dem. Rep.</name>
+
+		<year_2010>
+			<GDP>N/A</GDP>
+		</year_2010>
+
+		<year_2011>
+			<GDP>N/A</GDP>
+		</year_2011>
+
+		<year_2012>
+			<GDP>N/A</GDP>
+		</year_2012>
+
+		<year_2013>
+			<GDP>N/A</GDP>
+		</year_2013>
+
+	</country>
+
+	<country country_id = "100" >
+		<name>Korea, Rep.</name>
+
+		<year_2010>
+			<GDP>6.5</GDP>
+		</year_2010>
+
+		<year_2011>
+			<GDP>3.7</GDP>
+		</year_2011>
+
+		<year_2012>
+			<GDP>2.3</GDP>
+		</year_2012>
+
+		<year_2013>
+			<GDP>3.0</GDP>
+		</year_2013>
+
+	</country>
+
+	<country country_id = "101" >
+		<name>Kosovo</name>
+
+		<year_2010>
+			<GDP>4.4</GDP>
+		</year_2010>
+
+		<year_2011>
+			<GDP>2.8</GDP>
+		</year_2011>
+
+		<year_2012>
+			<GDP>3.4</GDP>
+		</year_2012>
+
+		<year_2013>
+			<GDP>3.0</GDP>
+		</year_2013>
+
+	</country>
+
+	<country country_id = "102" >
+		<name>Kuwait</name>
+
+		<year_2010>
+			<GDP>-2.4</GDP>
+		</year_2010>
+
+		<year_2011>
+			<GDP>10.2</GDP>
+		</year_2011>
+
+		<year_2012>
+			<GDP>8.3</GDP>
+		</year_2012>
+
+		<year_2013>
+			<GDP>0.0</GDP>
+		</year_2013>
+
+	</country>
+
+	<country country_id = "103" >
+		<name>Kyrgyz Republic</name>
+
+		<year_2010>
+			<GDP>-0.5</GDP>
+		</year_2010>
+
+		<year_2011>
+			<GDP>6.0</GDP>
+		</year_2011>
+
+		<year_2012>
+			<GDP>-0.1</GDP>
+		</year_2012>
+
+		<year_2013>
+			<GDP>10.5</GDP>
+		</year_2013>
+
+	</country>
+
+	<country country_id = "104" >
+		<name>Lao PDR</name>
+
+		<year_2010>
+			<GDP>8.5</GDP>
+		</year_2010>
+
+		<year_2011>
+			<GDP>8.0</GDP>
+		</year_2011>
+
+		<year_2012>
+			<GDP>8.0</GDP>
+		</year_2012>
+
+		<year_2013>
+			<GDP>8.5</GDP>
+		</year_2013>
+
+	</country>
+
+	<country country_id = "105" >
+		<name>Latvia</name>
+
+		<year_2010>
+			<GDP>-0.3</GDP>
+		</year_2010>
+
+		<year_2011>
+			<GDP>5.3</GDP>
+		</year_2011>
+
+		<year_2012>
+			<GDP>5.0</GDP>
+		</year_2012>
+
+		<year_2013>
+			<GDP>4.1</GDP>
+		</year_2013>
+
+	</country>
+
+	<country country_id = "106" >
+		<name>Lebanon</name>
+
+		<year_2010>
+			<GDP>8.0</GDP>
+		</year_2010>
+
+		<year_2011>
+			<GDP>2.0</GDP>
+		</year_2011>
+
+		<year_2012>
+			<GDP>2.2</GDP>
+		</year_2012>
+
+		<year_2013>
+			<GDP>0.9</GDP>
+		</year_2013>
+
+	</country>
+
+	<country country_id = "107" >
+		<name>Lesotho</name>
+
+		<year_2010>
+			<GDP>7.1</GDP>
+		</year_2010>
+
+		<year_2011>
+			<GDP>2.8</GDP>
+		</year_2011>
+
+		<year_2012>
+			<GDP>6.5</GDP>
+		</year_2012>
+
+		<year_2013>
+			<GDP>5.5</GDP>
+		</year_2013>
+
+	</country>
+
+	<country country_id = "108" >
+		<name>Liberia</name>
+
+		<year_2010>
+			<GDP>10.9</GDP>
+		</year_2010>
+
+		<year_2011>
+			<GDP>9.1</GDP>
+		</year_2011>
+
+		<year_2012>
+			<GDP>10.2</GDP>
+		</year_2012>
+
+		<year_2013>
+			<GDP>11.3</GDP>
+		</year_2013>
+
+	</country>
+
+	<country country_id = "109" >
+		<name>Libya</name>
+
+		<year_2010>
+			<GDP>5.0</GDP>
+		</year_2010>
+
+		<year_2011>
+			<GDP>-62.1</GDP>
+		</year_2011>
+
+		<year_2012>
+			<GDP>104.5</GDP>
+		</year_2012>
+
+		<year_2013>
+			<GDP>-10.9</GDP>
+		</year_2013>
+
+	</country>
+
+	<country country_id = "110" >
+		<name>Liechtenstein</name>
+
+		<year_2010>
+			<GDP>N/A</GDP>
+		</year_2010>
+
+		<year_2011>
+			<GDP>N/A</GDP>
+		</year_2011>
+
+		<year_2012>
+			<GDP>N/A</GDP>
+		</year_2012>
+
+		<year_2013>
+			<GDP>N/A</GDP>
+		</year_2013>
+
+	</country>
+
+	<country country_id = "111" >
+		<name>Lithuania</name>
+
+		<year_2010>
+			<GDP>1.3</GDP>
+		</year_2010>
+
+		<year_2011>
+			<GDP>6.0</GDP>
+		</year_2011>
+
+		<year_2012>
+			<GDP>3.7</GDP>
+		</year_2012>
+
+		<year_2013>
+			<GDP>3.3</GDP>
+		</year_2013>
+
+	</country>
+
+	<country country_id = "112" >
+		<name>Luxembourg</name>
+
+		<year_2010>
+			<GDP>5.1</GDP>
+		</year_2010>
+
+		<year_2011>
+			<GDP>2.6</GDP>
+		</year_2011>
+
+		<year_2012>
+			<GDP>-0.2</GDP>
+		</year_2012>
+
+		<year_2013>
+			<GDP>2.0</GDP>
+		</year_2013>
+
+	</country>
+
+	<country country_id = "113" >
+		<name>Macao SAR, China</name>
+
+		<year_2010>
+			<GDP>27.5</GDP>
+		</year_2010>
+
+		<year_2011>
+			<GDP>21.3</GDP>
+		</year_2011>
+
+		<year_2012>
+			<GDP>9.1</GDP>
+		</year_2012>
+
+		<year_2013>
+			<GDP>11.9</GDP>
+		</year_2013>
+
+	</country>
+
+	<country country_id = "114" >
+		<name>Macedonia, FYR</name>
+
+		<year_2010>
+			<GDP>2.9</GDP>
+		</year_2010>
+
+		<year_2011>
+			<GDP>2.8</GDP>
+		</year_2011>
+
+		<year_2012>
+			<GDP>-0.4</GDP>
+		</year_2012>
+
+		<year_2013>
+			<GDP>3.1</GDP>
+		</year_2013>
+
+	</country>
+
+	<country country_id = "115" >
+		<name>Madagascar</name>
+
+		<year_2010>
+			<GDP>0.3</GDP>
+		</year_2010>
+
+		<year_2011>
+			<GDP>1.5</GDP>
+		</year_2011>
+
+		<year_2012>
+			<GDP>3.0</GDP>
+		</year_2012>
+
+		<year_2013>
+			<GDP>2.4</GDP>
+		</year_2013>
+
+	</country>
+
+	<country country_id = "116" >
+		<name>Malawi</name>
+
+		<year_2010>
+			<GDP>6.5</GDP>
+		</year_2010>
+
+		<year_2011>
+			<GDP>4.3</GDP>
+		</year_2011>
+
+		<year_2012>
+			<GDP>1.9</GDP>
+		</year_2012>
+
+		<year_2013>
+			<GDP>5.0</GDP>
+		</year_2013>
+
+	</country>
+
+	<country country_id = "117" >
+		<name>Malaysia</name>
+
+		<year_2010>
+			<GDP>7.4</GDP>
+		</year_2010>
+
+		<year_2011>
+			<GDP>5.2</GDP>
+		</year_2011>
+
+		<year_2012>
+			<GDP>5.6</GDP>
+		</year_2012>
+
+		<year_2013>
+			<GDP>4.7</GDP>
+		</year_2013>
+
+	</country>
+
+	<country country_id = "118" >
+		<name>Maldives</name>
+
+		<year_2010>
+			<GDP>7.1</GDP>
+		</year_2010>
+
+		<year_2011>
+			<GDP>6.5</GDP>
+		</year_2011>
+
+		<year_2012>
+			<GDP>1.3</GDP>
+		</year_2012>
+
+		<year_2013>
+			<GDP>3.7</GDP>
+		</year_2013>
+
+	</country>
+
+	<country country_id = "119" >
+		<name>Mali</name>
+
+		<year_2010>
+			<GDP>5.8</GDP>
+		</year_2010>
+
+		<year_2011>
+			<GDP>2.7</GDP>
+		</year_2011>
+
+		<year_2012>
+			<GDP>-0.4</GDP>
+		</year_2012>
+
+		<year_2013>
+			<GDP>2.1</GDP>
+		</year_2013>
+
+	</country>
+
+	<country country_id = "120" >
+		<name>Malta</name>
+
+		<year_2010>
+			<GDP>4.3</GDP>
+		</year_2010>
+
+		<year_2011>
+			<GDP>1.4</GDP>
+		</year_2011>
+
+		<year_2012>
+			<GDP>1.1</GDP>
+		</year_2012>
+
+		<year_2013>
+			<GDP>2.9</GDP>
+		</year_2013>
+
+	</country>
+
+	<country country_id = "121" >
+		<name>Marshall Islands</name>
+
+		<year_2010>
+			<GDP>6.1</GDP>
+		</year_2010>
+
+		<year_2011>
+			<GDP>0.0</GDP>
+		</year_2011>
+
+		<year_2012>
+			<GDP>4.7</GDP>
+		</year_2012>
+
+		<year_2013>
+			<GDP>3.0</GDP>
+		</year_2013>
+
+	</country>
+
+	<country country_id = "122" >
+		<name>Mauritania</name>
+
+		<year_2010>
+			<GDP>4.3</GDP>
+		</year_2010>
+
+		<year_2011>
+			<GDP>4.0</GDP>
+		</year_2011>
+
+		<year_2012>
+			<GDP>7.0</GDP>
+		</year_2012>
+
+		<year_2013>
+			<GDP>6.7</GDP>
+		</year_2013>
+
+	</country>
+
+	<country country_id = "123" >
+		<name>Mauritius</name>
+
+		<year_2010>
+			<GDP>4.1</GDP>
+		</year_2010>
+
+		<year_2011>
+			<GDP>3.9</GDP>
+		</year_2011>
+
+		<year_2012>
+			<GDP>3.2</GDP>
+		</year_2012>
+
+		<year_2013>
+			<GDP>3.2</GDP>
+		</year_2013>
+
+	</country>
+
+	<country country_id = "124" >
+		<name>Mexico</name>
+
+		<year_2010>
+			<GDP>5.1</GDP>
+		</year_2010>
+
+		<year_2011>
+			<GDP>4.0</GDP>
+		</year_2011>
+
+		<year_2012>
+			<GDP>4.0</GDP>
+		</year_2012>
+
+		<year_2013>
+			<GDP>1.1</GDP>
+		</year_2013>
+
+	</country>
+
+	<country country_id = "125" >
+		<name>Micronesia, Fed. Sts.</name>
+
+		<year_2010>
+			<GDP>2.5</GDP>
+		</year_2010>
+
+		<year_2011>
+			<GDP>2.1</GDP>
+		</year_2011>
+
+		<year_2012>
+			<GDP>0.4</GDP>
+		</year_2012>
+
+		<year_2013>
+			<GDP>-4.0</GDP>
+		</year_2013>
+
+	</country>
+
+	<country country_id = "126" >
+		<name>Moldova</name>
+
+		<year_2010>
+			<GDP>7.1</GDP>
+		</year_2010>
+
+		<year_2011>
+			<GDP>6.8</GDP>
+		</year_2011>
+
+		<year_2012>
+			<GDP>-0.7</GDP>
+		</year_2012>
+
+		<year_2013>
+			<GDP>8.9</GDP>
+		</year_2013>
+
+	</country>
+
+	<country country_id = "127" >
+		<name>Monaco</name>
+
+		<year_2010>
+			<GDP>N/A</GDP>
+		</year_2010>
+
+		<year_2011>
+			<GDP>N/A</GDP>
+		</year_2011>
+
+		<year_2012>
+			<GDP>N/A</GDP>
+		</year_2012>
+
+		<year_2013>
+			<GDP>N/A</GDP>
+		</year_2013>
+
+	</country>
+
+	<country country_id = "128" >
+		<name>Mongolia</name>
+
+		<year_2010>
+			<GDP>6.4</GDP>
+		</year_2010>
+
+		<year_2011>
+			<GDP>17.5</GDP>
+		</year_2011>
+
+		<year_2012>
+			<GDP>12.4</GDP>
+		</year_2012>
+
+		<year_2013>
+			<GDP>11.7</GDP>
+		</year_2013>
+
+	</country>
+
+	<country country_id = "129" >
+		<name>Montenegro</name>
+
+		<year_2010>
+			<GDP>2.5</GDP>
+		</year_2010>
+
+		<year_2011>
+			<GDP>3.2</GDP>
+		</year_2011>
+
+		<year_2012>
+			<GDP>-2.5</GDP>
+		</year_2012>
+
+		<year_2013>
+			<GDP>3.3</GDP>
+		</year_2013>
+
+	</country>
+
+	<country country_id = "130" >
+		<name>Morocco</name>
+
+		<year_2010>
+			<GDP>3.6</GDP>
+		</year_2010>
+
+		<year_2011>
+			<GDP>5.0</GDP>
+		</year_2011>
+
+		<year_2012>
+			<GDP>2.7</GDP>
+		</year_2012>
+
+		<year_2013>
+			<GDP>4.4</GDP>
+		</year_2013>
+
+	</country>
+
+	<country country_id = "131" >
+		<name>Mozambique</name>
+
+		<year_2010>
+			<GDP>7.1</GDP>
+		</year_2010>
+
+		<year_2011>
+			<GDP>7.4</GDP>
+		</year_2011>
+
+		<year_2012>
+			<GDP>7.1</GDP>
+		</year_2012>
+
+		<year_2013>
+			<GDP>7.4</GDP>
+		</year_2013>
+
+	</country>
+
+	<country country_id = "132" >
+		<name>Myanmar</name>
+
+		<year_2010>
+			<GDP>N/A</GDP>
+		</year_2010>
+
+		<year_2011>
+			<GDP>N/A</GDP>
+		</year_2011>
+
+		<year_2012>
+			<GDP>N/A</GDP>
+		</year_2012>
+
+		<year_2013>
+			<GDP>N/A</GDP>
+		</year_2013>
+
+	</country>
+
+	<country country_id = "133" >
+		<name>Namibia</name>
+
+		<year_2010>
+			<GDP>6.0</GDP>
+		</year_2010>
+
+		<year_2011>
+			<GDP>5.1</GDP>
+		</year_2011>
+
+		<year_2012>
+			<GDP>5.2</GDP>
+		</year_2012>
+
+		<year_2013>
+			<GDP>5.1</GDP>
+		</year_2013>
+
+	</country>
+
+	<country country_id = "134" >
+		<name>Nepal</name>
+
+		<year_2010>
+			<GDP>4.8</GDP>
+		</year_2010>
+
+		<year_2011>
+			<GDP>3.4</GDP>
+		</year_2011>
+
+		<year_2012>
+			<GDP>4.9</GDP>
+		</year_2012>
+
+		<year_2013>
+			<GDP>3.8</GDP>
+		</year_2013>
+
+	</country>
+
+	<country country_id = "135" >
+		<name>Netherlands</name>
+
+		<year_2010>
+			<GDP>1.1</GDP>
+		</year_2010>
+
+		<year_2011>
+			<GDP>1.7</GDP>
+		</year_2011>
+
+		<year_2012>
+			<GDP>-1.6</GDP>
+		</year_2012>
+
+		<year_2013>
+			<GDP>-0.7</GDP>
+		</year_2013>
+
+	</country>
+
+	<country country_id = "136" >
+		<name>New Caledonia</name>
+
+		<year_2010>
+			<GDP>N/A</GDP>
+		</year_2010>
+
+		<year_2011>
+			<GDP>N/A</GDP>
+		</year_2011>
+
+		<year_2012>
+			<GDP>N/A</GDP>
+		</year_2012>
+
+		<year_2013>
+			<GDP>N/A</GDP>
+		</year_2013>
+
+	</country>
+
+	<country country_id = "137" >
+		<name>New Zealand</name>
+
+		<year_2010>
+			<GDP>0.7</GDP>
+		</year_2010>
+
+		<year_2011>
+			<GDP>2.3</GDP>
+		</year_2011>
+
+		<year_2012>
+			<GDP>2.5</GDP>
+		</year_2012>
+
+		<year_2013>
+			<GDP>2.5</GDP>
+		</year_2013>
+
+	</country>
+
+	<country country_id = "138" >
+		<name>Nicaragua</name>
+
+		<year_2010>
+			<GDP>3.3</GDP>
+		</year_2010>
+
+		<year_2011>
+			<GDP>5.7</GDP>
+		</year_2011>
+
+		<year_2012>
+			<GDP>5.0</GDP>
+		</year_2012>
+
+		<year_2013>
+			<GDP>4.6</GDP>
+		</year_2013>
+
+	</country>
+
+	<country country_id = "139" >
+		<name>Niger</name>
+
+		<year_2010>
+			<GDP>8.4</GDP>
+		</year_2010>
+
+		<year_2011>
+			<GDP>2.3</GDP>
+		</year_2011>
+
+		<year_2012>
+			<GDP>11.0</GDP>
+		</year_2012>
+
+		<year_2013>
+			<GDP>4.1</GDP>
+		</year_2013>
+
+	</country>
+
+	<country country_id = "140" >
+		<name>Nigeria</name>
+
+		<year_2010>
+			<GDP>7.8</GDP>
+		</year_2010>
+
+		<year_2011>
+			<GDP>4.9</GDP>
+		</year_2011>
+
+		<year_2012>
+			<GDP>4.3</GDP>
+		</year_2012>
+
+		<year_2013>
+			<GDP>5.4</GDP>
+		</year_2013>
+
+	</country>
+
+	<country country_id = "141" >
+		<name>Northern Mariana Islands</name>
+
+		<year_2010>
+			<GDP>N/A</GDP>
+		</year_2010>
+
+		<year_2011>
+			<GDP>N/A</GDP>
+		</year_2011>
+
+		<year_2012>
+			<GDP>N/A</GDP>
+		</year_2012>
+
+		<year_2013>
+			<GDP>N/A</GDP>
+		</year_2013>
+
+	</country>
+
+	<country country_id = "142" >
+		<name>Norway</name>
+
+		<year_2010>
+			<GDP>0.5</GDP>
+		</year_2010>
+
+		<year_2011>
+			<GDP>1.3</GDP>
+		</year_2011>
+
+		<year_2012>
+			<GDP>2.9</GDP>
+		</year_2012>
+
+		<year_2013>
+			<GDP>0.6</GDP>
+		</year_2013>
+
+	</country>
+
+	<country country_id = "143" >
+		<name>Oman</name>
+
+		<year_2010>
+			<GDP>4.8</GDP>
+		</year_2010>
+
+		<year_2011>
+			<GDP>0.9</GDP>
+		</year_2011>
+
+		<year_2012>
+			<GDP>5.8</GDP>
+		</year_2012>
+
+		<year_2013>
+			<GDP>N/A</GDP>
+		</year_2013>
+
+	</country>
+
+	<country country_id = "144" >
+		<name>Pakistan</name>
+
+		<year_2010>
+			<GDP>1.6</GDP>
+		</year_2010>
+
+		<year_2011>
+			<GDP>2.7</GDP>
+		</year_2011>
+
+		<year_2012>
+			<GDP>3.5</GDP>
+		</year_2012>
+
+		<year_2013>
+			<GDP>4.4</GDP>
+		</year_2013>
+
+	</country>
+
+	<country country_id = "145" >
+		<name>Palau</name>
+
+		<year_2010>
+			<GDP>3.3</GDP>
+		</year_2010>
+
+		<year_2011>
+			<GDP>5.3</GDP>
+		</year_2011>
+
+		<year_2012>
+			<GDP>5.7</GDP>
+		</year_2012>
+
+		<year_2013>
+			<GDP>-0.3</GDP>
+		</year_2013>
+
+	</country>
+
+	<country country_id = "146" >
+		<name>Panama</name>
+
+		<year_2010>
+			<GDP>5.9</GDP>
+		</year_2010>
+
+		<year_2011>
+			<GDP>10.8</GDP>
+		</year_2011>
+
+		<year_2012>
+			<GDP>10.2</GDP>
+		</year_2012>
+
+		<year_2013>
+			<GDP>8.4</GDP>
+		</year_2013>
+
+	</country>
+
+	<country country_id = "147" >
+		<name>Papua New Guinea</name>
+
+		<year_2010>
+			<GDP>7.7</GDP>
+		</year_2010>
+
+		<year_2011>
+			<GDP>10.7</GDP>
+		</year_2011>
+
+		<year_2012>
+			<GDP>8.1</GDP>
+		</year_2012>
+
+		<year_2013>
+			<GDP>5.5</GDP>
+		</year_2013>
+
+	</country>
+
+	<country country_id = "148" >
+		<name>Paraguay</name>
+
+		<year_2010>
+			<GDP>13.1</GDP>
+		</year_2010>
+
+		<year_2011>
+			<GDP>4.3</GDP>
+		</year_2011>
+
+		<year_2012>
+			<GDP>-1.2</GDP>
+		</year_2012>
+
+		<year_2013>
+			<GDP>14.2</GDP>
+		</year_2013>
+
+	</country>
+
+	<country country_id = "149" >
+		<name>Peru</name>
+
+		<year_2010>
+			<GDP>8.5</GDP>
+		</year_2010>
+
+		<year_2011>
+			<GDP>6.5</GDP>
+		</year_2011>
+
+		<year_2012>
+			<GDP>6.0</GDP>
+		</year_2012>
+
+		<year_2013>
+			<GDP>5.8</GDP>
+		</year_2013>
+
+	</country>
+
+	<country country_id = "150" >
+		<name>Philippines</name>
+
+		<year_2010>
+			<GDP>7.6</GDP>
+		</year_2010>
+
+		<year_2011>
+			<GDP>3.7</GDP>
+		</year_2011>
+
+		<year_2012>
+			<GDP>6.8</GDP>
+		</year_2012>
+
+		<year_2013>
+			<GDP>7.2</GDP>
+		</year_2013>
+
+	</country>
+
+	<country country_id = "151" >
+		<name>Poland</name>
+
+		<year_2010>
+			<GDP>3.7</GDP>
+		</year_2010>
+
+		<year_2011>
+			<GDP>4.8</GDP>
+		</year_2011>
+
+		<year_2012>
+			<GDP>1.8</GDP>
+		</year_2012>
+
+		<year_2013>
+			<GDP>1.7</GDP>
+		</year_2013>
+
+	</country>
+
+	<country country_id = "152" >
+		<name>Portugal</name>
+
+		<year_2010>
+			<GDP>1.9</GDP>
+		</year_2010>
+
+		<year_2011>
+			<GDP>-1.8</GDP>
+		</year_2011>
+
+		<year_2012>
+			<GDP>-3.3</GDP>
+		</year_2012>
+
+		<year_2013>
+			<GDP>-1.4</GDP>
+		</year_2013>
+
+	</country>
+
+	<country country_id = "153" >
+		<name>Puerto Rico</name>
+
+		<year_2010>
+			<GDP>0.0</GDP>
+		</year_2010>
+
+		<year_2011>
+			<GDP>0.0</GDP>
+		</year_2011>
+
+		<year_2012>
+			<GDP>0.0</GDP>
+		</year_2012>
+
+		<year_2013>
+			<GDP>0.0</GDP>
+		</year_2013>
+
+	</country>
+
+	<country country_id = "154" >
+		<name>Qatar</name>
+
+		<year_2010>
+			<GDP>16.7</GDP>
+		</year_2010>
+
+		<year_2011>
+			<GDP>13.0</GDP>
+		</year_2011>
+
+		<year_2012>
+			<GDP>6.0</GDP>
+		</year_2012>
+
+		<year_2013>
+			<GDP>6.3</GDP>
+		</year_2013>
+
+	</country>
+
+	<country country_id = "155" >
+		<name>Romania</name>
+
+		<year_2010>
+			<GDP>-0.9</GDP>
+		</year_2010>
+
+		<year_2011>
+			<GDP>2.3</GDP>
+		</year_2011>
+
+		<year_2012>
+			<GDP>0.4</GDP>
+		</year_2012>
+
+		<year_2013>
+			<GDP>3.5</GDP>
+		</year_2013>
+
+	</country>
+
+	<country country_id = "156" >
+		<name>Russian Federation</name>
+
+		<year_2010>
+			<GDP>4.5</GDP>
+		</year_2010>
+
+		<year_2011>
+			<GDP>4.3</GDP>
+		</year_2011>
+
+		<year_2012>
+			<GDP>3.4</GDP>
+		</year_2012>
+
+		<year_2013>
+			<GDP>1.3</GDP>
+		</year_2013>
+
+	</country>
+
+	<country country_id = "157" >
+		<name>Rwanda</name>
+
+		<year_2010>
+			<GDP>7.3</GDP>
+		</year_2010>
+
+		<year_2011>
+			<GDP>7.9</GDP>
+		</year_2011>
+
+		<year_2012>
+			<GDP>8.8</GDP>
+		</year_2012>
+
+		<year_2013>
+			<GDP>4.7</GDP>
+		</year_2013>
+
+	</country>
+
+	<country country_id = "158" >
+		<name>Samoa</name>
+
+		<year_2010>
+			<GDP>0.5</GDP>
+		</year_2010>
+
+		<year_2011>
+			<GDP>5.2</GDP>
+		</year_2011>
+
+		<year_2012>
+			<GDP>1.5</GDP>
+		</year_2012>
+
+		<year_2013>
+			<GDP>-1.1</GDP>
+		</year_2013>
+
+	</country>
+
+	<country country_id = "159" >
+		<name>San Marino</name>
+
+		<year_2010>
+			<GDP>N/A</GDP>
+		</year_2010>
+
+		<year_2011>
+			<GDP>N/A</GDP>
+		</year_2011>
+
+		<year_2012>
+			<GDP>N/A</GDP>
+		</year_2012>
+
+		<year_2013>
+			<GDP>N/A</GDP>
+		</year_2013>
+
+	</country>
+
+	<country country_id = "160" >
+		<name>Sao Tome and Principe</name>
+
+		<year_2010>
+			<GDP>4.5</GDP>
+		</year_2010>
+
+		<year_2011>
+			<GDP>4.9</GDP>
+		</year_2011>
+
+		<year_2012>
+			<GDP>4.0</GDP>
+		</year_2012>
+
+		<year_2013>
+			<GDP>4.0</GDP>
+		</year_2013>
+
+	</country>
+
+	<country country_id = "161" >
+		<name>Saudi Arabia</name>
+
+		<year_2010>
+			<GDP>7.4</GDP>
+		</year_2010>
+
+		<year_2011>
+			<GDP>8.6</GDP>
+		</year_2011>
+
+		<year_2012>
+			<GDP>5.8</GDP>
+		</year_2012>
+
+		<year_2013>
+			<GDP>4.0</GDP>
+		</year_2013>
+
+	</country>
+
+	<country country_id = "162" >
+		<name>Senegal</name>
+
+		<year_2010>
+			<GDP>4.3</GDP>
+		</year_2010>
+
+		<year_2011>
+			<GDP>2.1</GDP>
+		</year_2011>
+
+		<year_2012>
+			<GDP>3.5</GDP>
+		</year_2012>
+
+		<year_2013>
+			<GDP>2.8</GDP>
+		</year_2013>
+
+	</country>
+
+	<country country_id = "163" >
+		<name>Serbia</name>
+
+		<year_2010>
+			<GDP>0.6</GDP>
+		</year_2010>
+
+		<year_2011>
+			<GDP>1.4</GDP>
+		</year_2011>
+
+		<year_2012>
+			<GDP>-1.0</GDP>
+		</year_2012>
+
+		<year_2013>
+			<GDP>2.6</GDP>
+		</year_2013>
+
+	</country>
+
+	<country country_id = "164" >
+		<name>Seychelles</name>
+
+		<year_2010>
+			<GDP>5.9</GDP>
+		</year_2010>
+
+		<year_2011>
+			<GDP>7.9</GDP>
+		</year_2011>
+
+		<year_2012>
+			<GDP>2.8</GDP>
+		</year_2012>
+
+		<year_2013>
+			<GDP>5.3</GDP>
+		</year_2013>
+
+	</country>
+
+	<country country_id = "165" >
+		<name>Sierra Leone</name>
+
+		<year_2010>
+			<GDP>5.3</GDP>
+		</year_2010>
+
+		<year_2011>
+			<GDP>5.8</GDP>
+		</year_2011>
+
+		<year_2012>
+			<GDP>5.3</GDP>
+		</year_2012>
+
+		<year_2013>
+			<GDP>5.5</GDP>
+		</year_2013>
+
+	</country>
+
+	<country country_id = "166" >
+		<name>Singapore</name>
+
+		<year_2010>
+			<GDP>15.2</GDP>
+		</year_2010>
+
+		<year_2011>
+			<GDP>6.1</GDP>
+		</year_2011>
+
+		<year_2012>
+			<GDP>2.5</GDP>
+		</year_2012>
+
+		<year_2013>
+			<GDP>3.9</GDP>
+		</year_2013>
+
+	</country>
+
+	<country country_id = "167" >
+		<name>Sint Maarten (Dutch part)</name>
+
+		<year_2010>
+			<GDP>N/A</GDP>
+		</year_2010>
+
+		<year_2011>
+			<GDP>N/A</GDP>
+		</year_2011>
+
+		<year_2012>
+			<GDP>N/A</GDP>
+		</year_2012>
+
+		<year_2013>
+			<GDP>N/A</GDP>
+		</year_2013>
+
+	</country>
+
+	<country country_id = "168" >
+		<name>Slovak Republic</name>
+
+		<year_2010>
+			<GDP>4.8</GDP>
+		</year_2010>
+
+		<year_2011>
+			<GDP>2.7</GDP>
+		</year_2011>
+
+		<year_2012>
+			<GDP>1.6</GDP>
+		</year_2012>
+
+		<year_2013>
+			<GDP>1.4</GDP>
+		</year_2013>
+
+	</country>
+
+	<country country_id = "169" >
+		<name>Slovenia</name>
+
+		<year_2010>
+			<GDP>1.2</GDP>
+		</year_2010>
+
+		<year_2011>
+			<GDP>0.6</GDP>
+		</year_2011>
+
+		<year_2012>
+			<GDP>-2.6</GDP>
+		</year_2012>
+
+		<year_2013>
+			<GDP>-1.0</GDP>
+		</year_2013>
+
+	</country>
+
+	<country country_id = "170" >
+		<name>Solomon Islands</name>
+
+		<year_2010>
+			<GDP>7.8</GDP>
+		</year_2010>
+
+		<year_2011>
+			<GDP>10.7</GDP>
+		</year_2011>
+
+		<year_2012>
+			<GDP>4.9</GDP>
+		</year_2012>
+
+		<year_2013>
+			<GDP>3.0</GDP>
+		</year_2013>
+
+	</country>
+
+	<country country_id = "171" >
+		<name>Somalia</name>
+
+		<year_2010>
+			<GDP>N/A</GDP>
+		</year_2010>
+
+		<year_2011>
+			<GDP>N/A</GDP>
+		</year_2011>
+
+		<year_2012>
+			<GDP>N/A</GDP>
+		</year_2012>
+
+		<year_2013>
+			<GDP>N/A</GDP>
+		</year_2013>
+
+	</country>
+
+	<country country_id = "172" >
+		<name>South Africa</name>
+
+		<year_2010>
+			<GDP>3.0</GDP>
+		</year_2010>
+
+		<year_2011>
+			<GDP>3.2</GDP>
+		</year_2011>
+
+		<year_2012>
+			<GDP>2.2</GDP>
+		</year_2012>
+
+		<year_2013>
+			<GDP>2.2</GDP>
+		</year_2013>
+
+	</country>
+
+	<country country_id = "173" >
+		<name>South Sudan</name>
+
+		<year_2010>
+			<GDP>5.5</GDP>
+		</year_2010>
+
+		<year_2011>
+			<GDP>-4.6</GDP>
+		</year_2011>
+
+		<year_2012>
+			<GDP>-46.1</GDP>
+		</year_2012>
+
+		<year_2013>
+			<GDP>13.1</GDP>
+		</year_2013>
+
+	</country>
+
+	<country country_id = "174" >
+		<name>Spain</name>
+
+		<year_2010>
+			<GDP>0.0</GDP>
+		</year_2010>
+
+		<year_2011>
+			<GDP>-0.6</GDP>
+		</year_2011>
+
+		<year_2012>
+			<GDP>-2.1</GDP>
+		</year_2012>
+
+		<year_2013>
+			<GDP>-1.2</GDP>
+		</year_2013>
+
+	</country>
+
+	<country country_id = "175" >
+		<name>Sri Lanka</name>
+
+		<year_2010>
+			<GDP>8.0</GDP>
+		</year_2010>
+
+		<year_2011>
+			<GDP>8.2</GDP>
+		</year_2011>
+
+		<year_2012>
+			<GDP>6.3</GDP>
+		</year_2012>
+
+		<year_2013>
+			<GDP>7.3</GDP>
+		</year_2013>
+
+	</country>
+
+	<country country_id = "176" >
+		<name>St. Kitts and Nevis</name>
+
+		<year_2010>
+			<GDP>-3.2</GDP>
+		</year_2010>
+
+		<year_2011>
+			<GDP>1.7</GDP>
+		</year_2011>
+
+		<year_2012>
+			<GDP>-1.2</GDP>
+		</year_2012>
+
+		<year_2013>
+			<GDP>4.2</GDP>
+		</year_2013>
+
+	</country>
+
+	<country country_id = "177" >
+		<name>St. Lucia</name>
+
+		<year_2010>
+			<GDP>-1.0</GDP>
+		</year_2010>
+
+		<year_2011>
+			<GDP>1.2</GDP>
+		</year_2011>
+
+		<year_2012>
+			<GDP>-1.6</GDP>
+		</year_2012>
+
+		<year_2013>
+			<GDP>-0.4</GDP>
+		</year_2013>
+
+	</country>
+
+	<country country_id = "178" >
+		<name>St. Martin</name>
+
+		<year_2010>
+			<GDP>0.0</GDP>
+		</year_2010>
+
+		<year_2011>
+			<GDP>0.0</GDP>
+		</year_2011>
+
+		<year_2012>
+			<GDP>0.0</GDP>
+		</year_2012>
+
+		<year_2013>
+			<GDP>0.0</GDP>
+		</year_2013>
+
+	</country>
+
+	<country country_id = "179" >
+		<name>St. Vincent and the Grenadines</name>
+
+		<year_2010>
+			<GDP>-3.4</GDP>
+		</year_2010>
+
+		<year_2011>
+			<GDP>-0.5</GDP>
+		</year_2011>
+
+		<year_2012>
+			<GDP>1.2</GDP>
+		</year_2012>
+
+		<year_2013>
+			<GDP>1.7</GDP>
+		</year_2013>
+
+	</country>
+
+	<country country_id = "180" >
+		<name>Sudan</name>
+
+		<year_2010>
+			<GDP>3.5</GDP>
+		</year_2010>
+
+		<year_2011>
+			<GDP>-3.3</GDP>
+		</year_2011>
+
+		<year_2012>
+			<GDP>-10.1</GDP>
+		</year_2012>
+
+		<year_2013>
+			<GDP>-6.0</GDP>
+		</year_2013>
+
+	</country>
+
+	<country country_id = "181" >
+		<name>Suriname</name>
+
+		<year_2010>
+			<GDP>5.2</GDP>
+		</year_2010>
+
+		<year_2011>
+			<GDP>5.3</GDP>
+		</year_2011>
+
+		<year_2012>
+			<GDP>3.0</GDP>
+		</year_2012>
+
+		<year_2013>
+			<GDP>2.9</GDP>
+		</year_2013>
+
+	</country>
+
+	<country country_id = "182" >
+		<name>Swaziland</name>
+
+		<year_2010>
+			<GDP>1.9</GDP>
+		</year_2010>
+
+		<year_2011>
+			<GDP>-0.7</GDP>
+		</year_2011>
+
+		<year_2012>
+			<GDP>1.9</GDP>
+		</year_2012>
+
+		<year_2013>
+			<GDP>2.8</GDP>
+		</year_2013>
+
+	</country>
+
+	<country country_id = "183" >
+		<name>Sweden</name>
+
+		<year_2010>
+			<GDP>6.0</GDP>
+		</year_2010>
+
+		<year_2011>
+			<GDP>2.7</GDP>
+		</year_2011>
+
+		<year_2012>
+			<GDP>-0.3</GDP>
+		</year_2012>
+
+		<year_2013>
+			<GDP>1.5</GDP>
+		</year_2013>
+
+	</country>
+
+	<country country_id = "184" >
+		<name>Switzerland</name>
+
+		<year_2010>
+			<GDP>3.0</GDP>
+		</year_2010>
+
+		<year_2011>
+			<GDP>1.8</GDP>
+		</year_2011>
+
+		<year_2012>
+			<GDP>1.1</GDP>
+		</year_2012>
+
+		<year_2013>
+			<GDP>1.9</GDP>
+		</year_2013>
+
+	</country>
+
+	<country country_id = "185" >
+		<name>Syrian Arab Republic</name>
+
+		<year_2010>
+			<GDP>N/A</GDP>
+		</year_2010>
+
+		<year_2011>
+			<GDP>N/A</GDP>
+		</year_2011>
+
+		<year_2012>
+			<GDP>N/A</GDP>
+		</year_2012>
+
+		<year_2013>
+			<GDP>N/A</GDP>
+		</year_2013>
+
+	</country>
+
+	<country country_id = "186" >
+		<name>Tajikistan</name>
+
+		<year_2010>
+			<GDP>6.5</GDP>
+		</year_2010>
+
+		<year_2011>
+			<GDP>7.4</GDP>
+		</year_2011>
+
+		<year_2012>
+			<GDP>7.5</GDP>
+		</year_2012>
+
+		<year_2013>
+			<GDP>7.4</GDP>
+		</year_2013>
+
+	</country>
+
+	<country country_id = "187" >
+		<name>Tanzania</name>
+
+		<year_2010>
+			<GDP>6.4</GDP>
+		</year_2010>
+
+		<year_2011>
+			<GDP>7.9</GDP>
+		</year_2011>
+
+		<year_2012>
+			<GDP>5.1</GDP>
+		</year_2012>
+
+		<year_2013>
+			<GDP>7.3</GDP>
+		</year_2013>
+
+	</country>
+
+	<country country_id = "188" >
+		<name>Thailand</name>
+
+		<year_2010>
+			<GDP>7.8</GDP>
+		</year_2010>
+
+		<year_2011>
+			<GDP>0.1</GDP>
+		</year_2011>
+
+		<year_2012>
+			<GDP>7.7</GDP>
+		</year_2012>
+
+		<year_2013>
+			<GDP>1.8</GDP>
+		</year_2013>
+
+	</country>
+
+	<country country_id = "189" >
+		<name>Timor-Leste</name>
+
+		<year_2010>
+			<GDP>9.4</GDP>
+		</year_2010>
+
+		<year_2011>
+			<GDP>14.7</GDP>
+		</year_2011>
+
+		<year_2012>
+			<GDP>7.8</GDP>
+		</year_2012>
+
+		<year_2013>
+			<GDP>N/A</GDP>
+		</year_2013>
+
+	</country>
+
+	<country country_id = "190" >
+		<name>Togo</name>
+
+		<year_2010>
+			<GDP>4.0</GDP>
+		</year_2010>
+
+		<year_2011>
+			<GDP>4.9</GDP>
+		</year_2011>
+
+		<year_2012>
+			<GDP>5.9</GDP>
+		</year_2012>
+
+		<year_2013>
+			<GDP>5.1</GDP>
+		</year_2013>
+
+	</country>
+
+	<country country_id = "191" >
+		<name>Tonga</name>
+
+		<year_2010>
+			<GDP>3.3</GDP>
+		</year_2010>
+
+		<year_2011>
+			<GDP>2.9</GDP>
+		</year_2011>
+
+		<year_2012>
+			<GDP>0.8</GDP>
+		</year_2012>
+
+		<year_2013>
+			<GDP>0.5</GDP>
+		</year_2013>
+
+	</country>
+
+	<country country_id = "192" >
+		<name>Trinidad and Tobago</name>
+
+		<year_2010>
+			<GDP>0.2</GDP>
+		</year_2010>
+
+		<year_2011>
+			<GDP>-1.6</GDP>
+		</year_2011>
+
+		<year_2012>
+			<GDP>1.5</GDP>
+		</year_2012>
+
+		<year_2013>
+			<GDP>1.6</GDP>
+		</year_2013>
+
+	</country>
+
+	<country country_id = "193" >
+		<name>Tunisia</name>
+
+		<year_2010>
+			<GDP>3.2</GDP>
+		</year_2010>
+
+		<year_2011>
+			<GDP>-0.5</GDP>
+		</year_2011>
+
+		<year_2012>
+			<GDP>4.7</GDP>
+		</year_2012>
+
+		<year_2013>
+			<GDP>2.5</GDP>
+		</year_2013>
+
+	</country>
+
+	<country country_id = "194" >
+		<name>Turkey</name>
+
+		<year_2010>
+			<GDP>9.2</GDP>
+		</year_2010>
+
+		<year_2011>
+			<GDP>8.8</GDP>
+		</year_2011>
+
+		<year_2012>
+			<GDP>2.1</GDP>
+		</year_2012>
+
+		<year_2013>
+			<GDP>4.1</GDP>
+		</year_2013>
+
+	</country>
+
+	<country country_id = "195" >
+		<name>Turkmenistan</name>
+
+		<year_2010>
+			<GDP>9.2</GDP>
+		</year_2010>
+
+		<year_2011>
+			<GDP>14.7</GDP>
+		</year_2011>
+
+		<year_2012>
+			<GDP>11.1</GDP>
+		</year_2012>
+
+		<year_2013>
+			<GDP>10.2</GDP>
+		</year_2013>
+
+	</country>
+
+	<country country_id = "196" >
+		<name>Turks and Caicos Islands</name>
+
+		<year_2010>
+			<GDP>N/A</GDP>
+		</year_2010>
+
+		<year_2011>
+			<GDP>N/A</GDP>
+		</year_2011>
+
+		<year_2012>
+			<GDP>N/A</GDP>
+		</year_2012>
+
+		<year_2013>
+			<GDP>N/A</GDP>
+		</year_2013>
+
+	</country>
+
+	<country country_id = "197" >
+		<name>Tuvalu</name>
+
+		<year_2010>
+			<GDP>-2.7</GDP>
+		</year_2010>
+
+		<year_2011>
+			<GDP>8.5</GDP>
+		</year_2011>
+
+		<year_2012>
+			<GDP>0.2</GDP>
+		</year_2012>
+
+		<year_2013>
+			<GDP>1.3</GDP>
+		</year_2013>
+
+	</country>
+
+	<country country_id = "198" >
+		<name>Uganda</name>
+
+		<year_2010>
+			<GDP>5.2</GDP>
+		</year_2010>
+
+		<year_2011>
+			<GDP>9.7</GDP>
+		</year_2011>
+
+		<year_2012>
+			<GDP>4.4</GDP>
+		</year_2012>
+
+		<year_2013>
+			<GDP>3.3</GDP>
+		</year_2013>
+
+	</country>
+
+	<country country_id = "199" >
+		<name>Ukraine</name>
+
+		<year_2010>
+			<GDP>4.2</GDP>
+		</year_2010>
+
+		<year_2011>
+			<GDP>5.2</GDP>
+		</year_2011>
+
+		<year_2012>
+			<GDP>0.2</GDP>
+		</year_2012>
+
+		<year_2013>
+			<GDP>1.9</GDP>
+		</year_2013>
+
+	</country>
+
+	<country country_id = "200" >
+		<name>United Arab Emirates</name>
+
+		<year_2010>
+			<GDP>1.6</GDP>
+		</year_2010>
+
+		<year_2011>
+			<GDP>4.9</GDP>
+		</year_2011>
+
+		<year_2012>
+			<GDP>4.7</GDP>
+		</year_2012>
+
+		<year_2013>
+			<GDP>5.2</GDP>
+		</year_2013>
+
+	</country>
+
+	<country country_id = "201" >
+		<name>United Kingdom</name>
+
+		<year_2010>
+			<GDP>1.9</GDP>
+		</year_2010>
+
+		<year_2011>
+			<GDP>1.6</GDP>
+		</year_2011>
+
+		<year_2012>
+			<GDP>0.7</GDP>
+		</year_2012>
+
+		<year_2013>
+			<GDP>1.7</GDP>
+		</year_2013>
+
+	</country>
+
+	<country country_id = "202" >
+		<name>United States</name>
+
+		<year_2010>
+			<GDP>2.5</GDP>
+		</year_2010>
+
+		<year_2011>
+			<GDP>1.6</GDP>
+		</year_2011>
+
+		<year_2012>
+			<GDP>2.3</GDP>
+		</year_2012>
+
+		<year_2013>
+			<GDP>2.2</GDP>
+		</year_2013>
+
+	</country>
+
+	<country country_id = "203" >
+		<name>Uruguay</name>
+
+		<year_2010>
+			<GDP>8.4</GDP>
+		</year_2010>
+
+		<year_2011>
+			<GDP>7.3</GDP>
+		</year_2011>
+
+		<year_2012>
+			<GDP>3.7</GDP>
+		</year_2012>
+
+		<year_2013>
+			<GDP>4.4</GDP>
+		</year_2013>
+
+	</country>
+
+	<country country_id = "204" >
+		<name>Uzbekistan</name>
+
+		<year_2010>
+			<GDP>8.5</GDP>
+		</year_2010>
+
+		<year_2011>
+			<GDP>8.3</GDP>
+		</year_2011>
+
+		<year_2012>
+			<GDP>8.2</GDP>
+		</year_2012>
+
+		<year_2013>
+			<GDP>8.0</GDP>
+		</year_2013>
+
+	</country>
+
+	<country country_id = "205" >
+		<name>Vanuatu</name>
+
+		<year_2010>
+			<GDP>1.6</GDP>
+		</year_2010>
+
+		<year_2011>
+			<GDP>1.2</GDP>
+		</year_2011>
+
+		<year_2012>
+			<GDP>1.8</GDP>
+		</year_2012>
+
+		<year_2013>
+			<GDP>2.0</GDP>
+		</year_2013>
+
+	</country>
+
+	<country country_id = "206" >
+		<name>Venezuela, RB</name>
+
+		<year_2010>
+			<GDP>-1.5</GDP>
+		</year_2010>
+
+		<year_2011>
+			<GDP>4.2</GDP>
+		</year_2011>
+
+		<year_2012>
+			<GDP>5.6</GDP>
+		</year_2012>
+
+		<year_2013>
+			<GDP>1.3</GDP>
+		</year_2013>
+
+	</country>
+
+	<country country_id = "207" >
+		<name>Vietnam</name>
+
+		<year_2010>
+			<GDP>6.4</GDP>
+		</year_2010>
+
+		<year_2011>
+			<GDP>6.2</GDP>
+		</year_2011>
+
+		<year_2012>
+			<GDP>5.2</GDP>
+		</year_2012>
+
+		<year_2013>
+			<GDP>5.4</GDP>
+		</year_2013>
+
+	</country>
+
+	<country country_id = "208" >
+		<name>Virgin Islands</name>
+
+		<year_2010>
+			<GDP>0.0</GDP>
+		</year_2010>
+
+		<year_2011>
+			<GDP>0.0</GDP>
+		</year_2011>
+
+		<year_2012>
+			<GDP>0.0</GDP>
+		</year_2012>
+
+		<year_2013>
+			<GDP>0.0</GDP>
+		</year_2013>
+
+	</country>
+
+	<country country_id = "209" >
+		<name>West Bank and Gaza</name>
+
+		<year_2010>
+			<GDP>2.3</GDP>
+		</year_2010>
+
+		<year_2011>
+			<GDP>7.9</GDP>
+		</year_2011>
+
+		<year_2012>
+			<GDP>14.3</GDP>
+		</year_2012>
+
+		<year_2013>
+			<GDP>-4.4</GDP>
+		</year_2013>
+
+	</country>
+
+	<country country_id = "210" >
+		<name>Yemen, Rep.</name>
+
+		<year_2010>
+			<GDP>3.3</GDP>
+		</year_2010>
+
+		<year_2011>
+			<GDP>-15.1</GDP>
+		</year_2011>
+
+		<year_2012>
+			<GDP>2.5</GDP>
+		</year_2012>
+
+		<year_2013>
+			<GDP>4.2</GDP>
+		</year_2013>
+
+	</country>
+
+	<country country_id = "211" >
+		<name>Zambia</name>
+
+		<year_2010>
+			<GDP>10.3</GDP>
+		</year_2010>
+
+		<year_2011>
+			<GDP>6.3</GDP>
+		</year_2011>
+
+		<year_2012>
+			<GDP>6.7</GDP>
+		</year_2012>
+
+		<year_2013>
+			<GDP>6.7</GDP>
+		</year_2013>
+
+	</country>
+
+	<country country_id = "212" >
+		<name>Zimbabwe</name>
+
+		<year_2010>
+			<GDP>11.4</GDP>
+		</year_2010>
+
+		<year_2011>
+			<GDP>11.9</GDP>
+		</year_2011>
+
+		<year_2012>
+			<GDP>10.6</GDP>
+		</year_2012>
+
+		<year_2013>
+			<GDP>4.5</GDP>
+		</year_2013>
+
+	</country>
+
+</countries>
+
