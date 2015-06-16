@@ -1,0 +1,171 @@
+/* CSS Document */
+
+@import "reset.css";
+
+body {
+  background: #F9F9F9;
+}
+
+
+/*
+ * Top navigation
+ * Hide default border to remove 1px line.
+ */
+.navbar-fixed-top {
+  border: 0;
+}
+
+/*
+ * Sidebar
+ */
+
+/* Hide for mobile, show later */
+.sidebar {
+  display: none;
+}
+@media (min-width: 768px) {
+  .sidebar {
+    position: fixed;
+    top: 0px;
+    bottom: 0;
+    left: 0;
+    z-index: 1000;
+    display: block;
+    padding: 20px;
+    overflow-x: hidden;
+    overflow-y: auto; /* Scrollable contents if viewport is shorter than content. */
+    background-color: #fff;
+    border-right: 1px solid #eee;
+  }
+
+  .sidebar h1 {
+    font-size: 22px;
+    color: #6492D2;
+    margin: 20px 0;
+    line-height: 28px;
+    text-transform: uppercase;
+  }
+  .sidebar h1 strong {
+    color: #37BB47;
+    margin: 0px;
+    font-weight: bold;
+  }
+
+  .sidebar p {
+    color: #999;
+    margin-bottom: 40px;
+  }
+
+  .sidebar strong {
+    display: inline-block;
+    margin: 20px 0;
+    color: #666;
+  }
+}
+
+/* Sidebar navigation */
+.nav-sidebar {
+  margin-right: -21px; /* 20px padding + 1px border */
+  margin-bottom: 20px;
+  margin-left: -20px;
+}
+.nav-sidebar > li > a {
+  padding-right: 20px;
+  padding-left: 20px;
+}
+.nav-sidebar > li > a {
+  color: #B6B6B6;
+  font-size: 0.9em;
+  text-decoration: none;
+}
+.nav-sidebar > li > a:hover {
+  background: none;
+  text-decoration: underline;
+}
+.nav-sidebar > .active > a,
+.nav-sidebar > .active > a:hover,
+.nav-sidebar > .active > a:focus {
+  color: #6492d2;
+  font-weight: bold;
+  text-decoration: none;
+}
+
+
+/*
+ * Main content
+ */
+
+.main {
+  padding: 40px;
+}
+@media (min-width: 768px) {
+  .main {
+    padding-right: 40px;
+    padding-left: 40px;
+    position: relative;
+  }
+}
+.main .page-header {
+  margin-top: 0;
+  font-size: 2.25em;
+  font-weight: bold;
+  border: none;
+}
+.main .sub-header {
+  padding-bottom: 20px;
+  margin-bottom: 20px;
+  color: #B6B6B6;
+  line-height: 24px;
+  font-size: 0.85em;
+  text-align: justify;
+}
+
+.main .nav-tabs {
+  border-bottom: none;
+}
+.main .nav-tabs > li > a {
+  color: #B6B6B6;
+  padding: 20px 40px;
+  text-decoration: none;
+}
+.main .nav-tabs > li.active > a {
+  color: #6492D2;
+  font-weight: bold;
+}
+
+.main .content {
+  background: #fff;
+  border: 1px solid #ddd;
+  padding: 40px;
+  min-height: 500px;
+}
+.main .tab-content>.active {
+  width: 100%;
+}
+
+.main .content table td {
+  color: #999;
+}
+.main .content table th {
+  color: #666;
+}
+
+
+/*
+ * Placeholder dashboard ideas
+ */
+
+.placeholders {
+  margin-bottom: 30px;
+  text-align: center;
+}
+.placeholders h4 {
+  margin-bottom: 0;
+}
+.placeholder {
+  margin-bottom: 20px;
+}
+.placeholder img {
+  display: inline-block;
+  border-radius: 50%;
+}

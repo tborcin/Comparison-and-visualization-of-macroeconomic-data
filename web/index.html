@@ -1,0 +1,182 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        
+        <title>CAVOMD | Comparison and visualization of macroeconomic data</title>
+
+        <!-- Bootstrap -->
+        <link href="css/bootstrap.min.css" rel="stylesheet">
+        <link href="css/style.css" rel="stylesheet">
+
+        <!-- Google Charts -->
+        <script type="text/javascript" src="https://www.google.com/jsapi"></script>
+        <script type="text/javascript">
+            google.load("visualization", "1", {packages:["corechart"]});
+            google.setOnLoadCallback(drawChart);
+            
+            function drawChart() {
+                var data = google.visualization.arrayToDataTable([
+                    ['Year', 'Slovakia', 'Czech Republic'],
+                    ['2010', 360, 600],
+                    ['2011', 900, 480],
+                    ['2012', 850, 300],
+                    ['2013', 1170, 460],
+                    ['2014', 660, 1120],
+                    ['2015', 1030, 540]
+                ]);
+
+                var options = {
+                    title: "",
+                    colors: ['#6492D2','#37BB47'],
+                    width: 800,
+                    height: 500
+                };
+
+                var chart = new google.visualization.AreaChart(document.getElementById('chart'));
+                chart.draw(data, options);
+            }
+
+            google.load("visualization", "1", {packages: ["geochart"]});
+            google.setOnLoadCallback(drawRegionsMap);
+            function drawRegionsMap() {
+                var data = google.visualization.arrayToDataTable([
+                    ['Country', 'Popularity'],
+                    ['Germany', 200],
+                    ['United States', 300],
+                    ['Brazil', 400],
+                    ['Canada', 500],
+                    ['France', 600],
+                    ['RU', 700]
+                ]);
+
+                var options = {colors: ['#6492D2']};
+
+                var chart = new google.visualization.GeoChart(document.getElementById('regions'));
+                chart.draw(data, options);
+            }            
+        </script>
+
+    </head>
+    
+    <body>
+
+        <div class="container-fluid">
+            <div class="row">
+
+                <!-- LEFT NAVIGATION PANEL -->
+                <div class="col-sm-3 col-md-2 sidebar">
+                    <h1>CAVO <strong>MD</strong></h1>
+                    <p>Comparison and visualization of macroeconomic data.</p>
+
+                    <strong>Indicators</strong>
+                    <ul class="nav nav-sidebar">
+                        <li><a href="#">Big Mac Index</a></li>
+                        <li><a href="#">Central government debt</a></li>
+                        <li><a href="#">Consumer price index</a></li>
+                        <li class="active"><a href="#">GDP</a></li>
+                        <li><a href="#">Inflation</a></li>
+                        <li><a href="#">Unemployment</a></li>                        
+                    </ul>
+
+                    <strong>Project</strong>
+                    <ul class="nav nav-sidebar">
+                        <li><a href="">About project</a></li>
+                        <li><a href="">Git repository</a></li>
+                    </ul>
+                </div>
+
+                <!-- MAIN -->
+                <div class="col-sm-9 col-sm-offset-3 col-md-10 col-md-offset-2 main">
+                    <h1 class="page-header">GDP</h1>
+                    <h2 class="sub-header"><strong>GDP</strong> at purchaser's prices is the sum of gross value added by all resident producers in the economy plus any product taxes and minus any subsidies not included in the value of the products. It is calculated without making deductions for depreciation of fabricated assets or for depletion and degradation of natural resources. Data are in current U.S. dollars. Dollar figures for GDP are converted from domestic currencies using single year official exchange rates. For a few countries where the official exchange rate does not reflect the rate effectively applied to actual foreign exchange transactions, an alternative conversion factor is used.</h2>
+                    
+                    <!-- SUBNAV -->
+                    <ul class="nav nav-tabs" role="tablist" id="subnav">
+                        <li role="presentation" class="active"><a href="#table" aria-controls="table" role="tab" data-toggle="tab" data-graf="1">Table</a></li>
+                        <li role="presentation"><a href="#graph" aria-controls="graph" role="tab" data-toggle="tab">Graph</a></li>
+                        <li role="presentation"><a href="#map" aria-controls="map" role="tab" data-toggle="tab">Map</a></li>
+                    </ul>                    
+
+                    <!-- CONTENT -->
+                    <div class="content tab-content">
+
+                        <div role="tabpanel" class="tab-pane active" id="table">
+                            <table class="table table-hover">
+                                <thead>
+                                    <tr>
+                                        <th>#</th>
+                                        <th>Country</th>
+                                        <th>2010</th>
+                                        <th>2011</th>
+                                        <th>2012</th>
+                                        <th>2013</th>
+                                        <th>2014</th>
+                                        <th>2015</th>
+                                    </tr>
+                                </thead>
+                                <tbody>
+                                    <tr>
+                                        <th scope="row">1</th>
+                                        <th scope="row">Finland</th>
+                                        <td>487254</td>
+                                        <td>64524</td>
+                                        <td>456451</td>
+                                        <td>82754</td>
+                                        <td>482402</td>
+                                        <td>920177</td>
+                                    </tr>
+                                    <tr>
+                                        <th scope="row">2</th>
+                                        <th scope="row">Netherland</th>
+                                        <td>487254</td>
+                                        <td>45624</td>
+                                        <td>456451</td>
+                                        <td>78254</td>
+                                        <td>482402</td>
+                                        <td>9820177</td>
+                                    </tr>
+                                    <tr>
+                                        <th scope="row">3</th>
+                                        <th scope="row">Czech Republic</th>
+                                        <td>487254</td>
+                                        <td>456524</td>
+                                        <td>456451</td>
+                                        <td>7254</td>
+                                        <td>48202</td>
+                                        <td>9820177</td>
+                                    </tr>
+                                    <tr>
+                                        <th scope="row">4</th>
+                                        <th scope="row">Slovakia</th>
+                                        <td>487254</td>
+                                        <td>4564524</td>
+                                        <td>456451</td>
+                                        <td>782754</td>
+                                        <td>482402</td>
+                                        <td>9820177</td>
+                                    </tr>                                                                                                            
+                                </tbody>
+                            </table>
+                        </div>
+                    
+                        <!-- GRAPH -->
+                        <div role="tabpanel" class="tab-pane" id="graph">
+                            <div id="chart"></div>
+                        </div>
+                        
+                        <div role="tabpanel" class="tab-pane" id="map">
+                            <div id="regions" style="width:800px;height:500px;"></div>
+                        </div>
+
+                    </div> <!-- END:CONTENT -->
+                </div> <!-- END:MAIN -->
+            </div>
+        </div>
+
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
+    <script src="js/bootstrap.min.js"></script>
+  </body>
+</html>
