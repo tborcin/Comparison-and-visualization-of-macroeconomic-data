@@ -1,0 +1,63 @@
+<?xml version="1.0"?>
+
+<xs:schema version="1.0"
+    xmlns:xs="http://www.w3.org/2001/XMLSchema"
+    elementFormDefault="qualified">
+    
+  <xs:element name="countries">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element name="country" minOccurs="1" maxOccurs="unbounded">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="year_data" minOccurs="1" maxOccurs="unbounded">
+                <xs:complexType>
+                  <xs:sequence>
+                    <xs:element name="GDP" type="data-type" minOccurs="1"  maxOccurs="1"/>
+                    <xs:element name="GDP_per_capita" type="data-type" minOccurs="1"  maxOccurs="1"/>
+                    <xs:element name="Inflation" type="data-type" minOccurs="1"  maxOccurs="1"/>
+                    <xs:element name="Unemployment" type="data-type" minOccurs="1"  maxOccurs="1"/>
+                    <xs:element name="Consumer_price_index" type="data-type" minOccurs="1"  maxOccurs="1"/>
+                    <xs:element name="Central_government_debt_LCU" type="data-type" minOccurs="1"  maxOccurs="1"/>
+                    <xs:element name="Central_government_debt_GDP" type="data-type" minOccurs="1"  maxOccurs="1"/>
+                    <xs:element name="Big_Mac_Index" type="data-type" minOccurs="1"  maxOccurs="1"/>
+                  </xs:sequence>
+                  
+                  <xs:attribute name="year" type="xs:integer" use="required" />
+                </xs:complexType>                                
+                
+                <xs:unique name="yearPrimaryKey">
+                  <xs:selector xpath="year" />
+                  <xs:field xpath="@year" />   
+                </xs:unique>
+              </xs:element>
+            </xs:sequence>
+                      
+            <xs:attribute name="country_id" type="xs:integer" use="required" />
+            <xs:attribute name="country_name" type="xs:string" use="required" />
+          </xs:complexType>                        
+          
+          <xs:unique name="countryPrimaryKey">
+            <xs:selector xpath="country" />
+            <xs:field xpath="@country_id" />
+          </xs:unique>                    
+        </xs:element>           
+      </xs:sequence>
+    </xs:complexType>  
+  </xs:element>
+  
+  <xs:simpleType name="data-type">
+    <xs:union>
+      <xs:simpleType>
+        <xs:restriction base="xs:double"/>
+      </xs:simpleType>
+  
+      <xs:simpleType>
+        <xs:restriction base="xs:string">
+          <xs:enumeration value="N/A"/>
+        </xs:restriction>
+      </xs:simpleType>
+    </xs:union> 
+  </xs:simpleType>
+    
+</xs:schema>
