@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<article xmlns="http://docbook.org/ns/docbook"
+         xmlns:xlink="http://www.w3.org/1999/xlink" version="5.0">
+ 
+  <articleinfo>
+    <title>Záverečná správa projektu Srovnání a vizualizace makroekonomických údajů</title>
+    <author>
+      <firstname>Mikuláš</firstname>
+      <surname>Mráz</surname>
+      <affiliation>
+        <orgname>Fakulta Informatiky, Masarykova univerzita, Brno</orgname>
+      </affiliation>
+    </author>
+    <pubdate>23.6.2015</pubdate>
+  </articleinfo>
+  <section>
+      <title>Analýza a návrh</title>
+      <para>Po zadaní projektu a vzájomnej dohode na rozdelení úloh bolo mojím cieľom pripraviť návrh XML databáze, na ktorej tím vystavia celý projekt, a jej následné pretvorenie návrhu do finálnej XML databáze.</para> 
+  </section>
+  <section>
+      <title>Implementácia</title>
+      <para>Po dohodnutí a dokončení predbežnej podoby XML databáze som začal so zberom dát, ktoré som si podľa kategórií ukladal do dočasných textových súborov.</para>
+      <para>Po dokončení zberu dát som si vytvoril jednoduchý program v jazyku C, ktorý načítal dáta z textových súborov do vytvorených štruktúr, ktoré následne vypísal a vytvoril jediný XML dokument.</para>
+  </section>
+  <section>
+      <title>Záver</title>
+      <para>Samotný proces zberu dát bol náročnejší, ako som predpokladal a dosť som bojoval s neúplnoťou dát v období 60. až 70. rokov minulého storočia. Po porovnaní viacerých zdrojov som bol nakoniec schopný vytvoriť požadovanú databázu s čo najúplnejšími dátami.</para>
+  </section>
+</article>
+
