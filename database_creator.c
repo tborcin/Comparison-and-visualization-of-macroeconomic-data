@@ -43,8 +43,8 @@ int main(int argc, char ** argv)
         inputFiles[i] = fopen(argv[i + 1], "r");
     }
 
-    //input file creating
-    FILE *output = fopen("XML.txt", "w");
+    //output file creating
+    FILE *output = fopen("database.xml", "w");
 
     //input data reading
     while (LOOP)
