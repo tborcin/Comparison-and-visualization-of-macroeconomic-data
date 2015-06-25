@@ -1,0 +1,105 @@
+/* CSS Document */
+
+@import "reset.css";
+
+body {
+  background: #F9F9F9;
+  padding: 80px 0;
+}
+
+h1 {
+  font-size: 36px;
+}
+
+/*** HEADER & NAV ***/
+
+nav {
+  background: #fff !important;
+}
+nav a {
+  text-decoration: none;
+}
+
+.nav > li > a {
+  padding: 15px 25px;
+}
+.nav > li:last-child > a {
+  margin-right: -25px;
+}
+
+.navbar-header.main {
+  width: 100%;
+}
+.navbar-header.main a {
+  width: 100%;
+  text-align: center;
+}
+
+.navbar-header a.navbar-brand {
+  color: #407ac9;
+  font-weight: bold;
+}
+
+.navbar-nav {
+  float: right !important;
+}
+.navbar-nav > .active > a {
+  background: #F9F9F9 !important;
+}
+
+/*** CONTENT ***/
+
+p.lead {
+  font-size: 18px;
+  color: #aeaeae;
+  line-height: 26px;
+  text-align: justify;
+  margin-bottom: 80px;
+}
+
+ul#subnav a {
+  text-decoration: none;
+  padding: 15px 25px;
+}
+
+div.content {
+  padding: 25px;
+  background: #fff;
+  color: #555;
+  line-height: 24px;
+  border: 1px solid #ddd;
+  border-top: none;
+}
+div.content.no-subnav {
+  border: 1px solid #ddd;
+}
+
+div.content h3 {
+  font-size: 22px;
+  margin-bottom: 15px;
+  color: #333;
+}
+div.content p {
+  text-align: justify;
+}
+div.content ul {
+  margin: 15px 0;
+}
+
+div.content table {
+  margin-bottom: 0px;
+}
+
+/*** TABS FIX ***/
+
+.tab-content > .tab-pane,
+.pill-content > .pill-pane {
+    display: block;     
+    height: 0;          
+    overflow-y: hidden; 
+}
+
+.tab-content > .active,
+.pill-content > .active {
+    height: auto;       
+} 

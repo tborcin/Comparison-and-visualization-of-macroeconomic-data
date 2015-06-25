@@ -1,0 +1,184 @@
+
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+    <meta name="description" content="">
+
+    <title>CAVOMD - Inflation</title>
+
+    <!-- Bootstrap core CSS -->
+    <link href="../css/bootstrap.min.css" rel="stylesheet">
+
+    <!-- Custom styles for this template -->
+    <link href="../css/style.css" rel="stylesheet">
+
+    <!-- Google Charts -->
+    <script type="text/javascript" src="https://www.google.com/jsapi"></script>
+    <script type="text/javascript">
+        google.load("visualization", "1", {packages:["corechart"]});
+        google.setOnLoadCallback(drawChart);
+
+        function drawChart() {
+            var data = google.visualization.arrayToDataTable([
+                ['Year', 'Czech Republic', 'Germany', 'Slovakia'],
+                ['2010', 0,0.74550609275981,0.48633723893774],
+                ['2011', 0,1.13889265264370,1.64926631274763],
+                ['2012', 1.44821429297659,1.49997737998184,1.26398773893261],
+                ['2013', 1.66660961129448,2.05865690176357,0.51903023979820]
+            ]);
+
+            var options = {
+                chart: {
+                    title: 'Inflation',
+                    subtitle: '2010-2013',
+                },
+                colors: ['#6492D2','#37BB47','#EF9534'],
+                width: 1088,
+                height: 400
+            };
+
+            var chart = new google.visualization.AreaChart(document.getElementById('chart'));
+            chart.draw(data, options);
+        }
+
+        google.load('visualization', '1', {'packages': ['geochart']});
+        google.setOnLoadCallback(drawMarkersMap);
+
+
+        function drawMarkersMap() {
+            var data = google.visualization.arrayToDataTable([
+                ['Country', '2013 Inflation', '2012 Inflation'],
+                ['Czech Republic', 1.66660961129448, 1.44821429297659],
+                ['Germany', 2.05865690176357, 1.49997737998184],
+                ['Slovakia', 0.51903023979820, 1.26398773893261]
+            ]);
+
+            var options = {
+                sizeAxis: { minValue: 0, maxValue: 2.1 },
+                region: '155', // Western Europe
+                width: '1088',
+                displayMode: 'markers',
+                colorAxis: {colors: ['#6492D2', '#37BB47']}
+            };
+
+            var chart = new google.visualization.GeoChart(document.getElementById('regions'));
+            chart.draw(data, options);
+        }; 
+    </script>
+  </head>
+
+  <body>
+
+    <!-- Fixed navbar -->
+    <nav class="navbar navbar-default navbar-fixed-top">
+      <div class="container">
+        
+        <div class="navbar-header">
+          <a class="navbar-brand" href="../index.html">CAVOMD</a>
+        </div>
+
+        <div id="navbar" class="collapse navbar-collapse">
+          <ul class="nav navbar-nav">
+            <li><a href="../bigmacindex/">Big Mac Index</a></li>
+            <li><a href="../gdp/">GDP</a></li>
+            <li class="active"><a href="../inflation/">Inflation</a></li>
+            <li><a href="../unemployment/">Unemployment</a></li>            
+          </ul>
+        </div><!--/.nav-collapse -->
+
+      </div><!--/.container -->
+    </nav>
+
+
+    <!-- Begin page content -->
+    <div class="container">
+        <div class="page-header">
+            <h1>Inflation</h1>
+        </div>
+        
+        <p class="lead">In economics, inflation is a sustained increase in the general price level of goods and services in an economy over a period of time. When the price level rises, each unit of currency buys fewer goods and services. Consequently, inflation reflects a reduction in the purchasing power per unit of money – a loss of real value in the medium of exchange and unit of account within the economy.</p>
+
+        
+        <!-- SUBNAV -->
+        <ul class="nav nav-tabs" role="tablist" id="subnav">
+            <li role="presentation" class="active"><a href="#table" aria-controls="table" role="tab" data-toggle="tab" data-graf="1">Table</a></li>
+            <li role="presentation"><a href="#graph" aria-controls="graph" role="tab" data-toggle="tab">Graph</a></li>
+            <li role="presentation"><a href="#map" aria-controls="map" role="tab" data-toggle="tab">Map</a></li>
+        </ul>
+
+        
+        <!-- CONTENT -->
+        <div class="content tab-content">
+
+            <div role="tabpanel" class="tab-pane active" id="table">
+                <table class="table table-hover">
+                    <thead>
+                        <tr>
+                            <th>#</th>
+                            <th>Country</th>
+                            <th>2010</th>
+                            <th>2011</th>
+                            <th>2012</th>
+                            <th>2013</th>
+                            <th>2014</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <th scope="row">1</th>
+                            <th scope="row">Czech Republic</th>
+                            <td>-</td>
+                            <td>-</td>
+                            <td>1.448214</td>
+                            <td>1.666610</td>
+                            <td>-</td>
+                        </tr>
+                        <tr>
+                            <th scope="row">2</th>
+                            <th scope="row">Germany</th>
+                            <td>0.745506</td>
+                            <td>1.138893</td>
+                            <td>1.499977</td>
+                            <td>2.058657</td>
+                            <td>-</td>
+                        </tr>
+                        <tr>
+                            <th scope="row">3</th>
+                            <th scope="row">Slovakia</th>
+                            <td>0.486337</td>
+                            <td>1.649266</td>
+                            <td>1.263988</td>
+                            <td>0.519030</td>
+                            <td>-</td>
+                        </tr>                                                                         
+                    </tbody>
+                </table>
+            </div><!--/.tabpanel -->
+                    
+            <!-- GRAPHS -->
+            <div role="tabpanel" class="tab-pane" id="graph">
+                <div id="chart"></div>
+            </div>
+                        
+            <div role="tabpanel" class="tab-pane" id="map">
+                <div id="regions"></div>
+            </div>
+
+        </div> <!-- END:CONTENT -->
+
+    </div><!--/.container -->
+
+
+
+    <!-- Bootstrap core JavaScript
+    ================================================== -->
+    <!-- Placed at the end of the document so the pages load faster -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+    <script src="../js/bootstrap.min.js"></script>
+
+  </body>
+</html>
