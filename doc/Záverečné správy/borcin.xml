@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<article xmlns="http://docbook.org/ns/docbook"
+         xmlns:xlink="http://www.w3.org/1999/xlink" version="5.0">
+ 
+  <articleinfo>
+    <title>Záverečná správa projektu Srovnání a vizualizace makroekonomických údajů</title>
+    <author>
+      <firstname>Tomáš</firstname>
+      <surname>Borčin</surname>
+      <affiliation>
+        <orgname>Fakulta Informatiky, Masarykova univerzita, Brno</orgname>
+      </affiliation>
+    </author>
+    <pubdate>24.6.2015</pubdate>
+  </articleinfo>
+  <section>
+      <title>Analýza a návrh</title>
+      <para>Mojou úlohou bolo správa servera, na ktorom bude nasadený web projektu a vytvorenie webu projektu</para> 
+  </section>
+  <section>
+      <title>Implementácia</title>
+      <para>Po konzultácii s vedúcim projektu som požiadal o vytvorenie školského Apache účtu pre potreby projektu. Bol mi vytvorený účet s HTTP portom 10139 na stránke http://kore.fi.muni.cz/ prístupný z internej siete Masarykovej univerzity</para>
+      <para>Následne som začal pracovať na webovej časti projektu. Stránka projektu je rozdelená do logických celkov podľa autora danej časti projektu.</para>
+  </section>
+  <section>
+      <title>Záver</title>
+      <para>Vytvorenie a správa servera, ako aj tvorba webu prebiehala bez problémov.</para>
+  </section>
+</article>

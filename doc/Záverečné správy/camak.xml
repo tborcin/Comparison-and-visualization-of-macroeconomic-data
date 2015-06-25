@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://docbook.org/xml/5.0/rng/docbook.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://docbook.org/xml/5.0/rng/docbook.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<article xmlns="http://docbook.org/ns/docbook"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="5.0">
+    <info>
+        <title>Záverečná správa</title>
+        <author>
+            <personname>Marián Čamák</personname>
+            <affiliation>
+                <orgname>Fakulta Informatiky, Masarykova univerzita, Brno</orgname>
+            </affiliation>
+        </author>
+    </info>
+    <section>
+        <title>Analýza a návrh</title>
+        <para>Na začiatku sme sa rozhodli navrhnúť svoje vlastné zadanie. Po jeho schválení sme si
+            rozdelili úlohy - mne pripadla transformácia XML dát, ktoré kolega M. Mráz zozbieral z
+            internetu, do HTML.</para>
+    </section>
+    <section>
+        <title>Transformácia</title>
+        <para>Na prevod XML dát som použil XSLT transformáciu, pre každú krajinu som vytvoril
+            tabuľku, do ktorej som vložil pre každý rok nasledovné ukazovatele: HDP, HDP na
+            obyvateľa, infláciu, nezamestnanosť, index spotrebiteľských cien, big mac index a dlh
+            verejnej správy. Výsledok bol použitý na webe pri zobrazovaní a porovnávaní krajín.
+        </para>
+    </section>
+    <section>
+        <title>Záver</title>
+        <para>Na práci na spoločnom projekte bolo pre mňa veľkým prínosom to, že som sa naučil
+            pracovať s Git-om a teda vzájomne spolupracovať s členmi v týme na jednej úlohe.
+            Nadobudnuté znalosti a skúsenosti určite využijem v budúcnosti. Pri transformácii dáť
+            som nenarazil na žiadne vážnejšie problémy.</para>
+    </section>
+</article>
