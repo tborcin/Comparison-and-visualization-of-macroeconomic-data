@@ -15,8 +15,8 @@
     <section>
         <title>Analýza a návrh</title>
         <para>Na začiatku sme sa rozhodli navrhnúť svoje vlastné zadanie. Po jeho schválení sme si
-            rozdelili úlohy - mne pripadla transformácia XML dát získaných z internetu do
-            HTML</para>
+            rozdelili úlohy - mne pripadla transformácia XML dát, ktoré kolega M. Mráz zozbieral z
+            internetu, do HTML.</para>
     </section>
     <section>
         <title>Transformácia</title>
@@ -28,6 +28,9 @@
     </section>
     <section>
         <title>Záver</title>
-        <para>Transformácia dát prebiehala bez vážnych komplikácií.</para>
+        <para>Na práci na spoločnom projekte bolo pre mňa veľkým prínosom to, že som sa naučil
+            pracovať s Git-om a teda vzájomne spolupracovať s členmi v týme na jednej úlohe.
+            Nadobudnuté znalosti a skúsenosti určite využijem v budúcnosti. Pri transformácii dáť
+            som nenarazil na žiadne vážnejšie problémy.</para>
     </section>
 </article>
