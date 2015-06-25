@@ -1,0 +1,184 @@
+
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+    <meta name="description" content="">
+
+    <title>CAVOMD - GDP</title>
+
+    <!-- Bootstrap core CSS -->
+    <link href="../css/bootstrap.min.css" rel="stylesheet">
+
+    <!-- Custom styles for this template -->
+    <link href="../css/style.css" rel="stylesheet">
+
+    <!-- Google Charts -->
+    <script type="text/javascript" src="https://www.google.com/jsapi"></script>
+    <script type="text/javascript">
+        google.load("visualization", "1", {packages:["corechart"]});
+        google.setOnLoadCallback(drawChart);
+
+        function drawChart() {
+            var data = google.visualization.arrayToDataTable([
+                ['Year', 'Czech Republic', 'Germany', 'Slovakia'],
+                ['2010', 153348850822.11801,3037693821693.27980,78622268498.94290],
+                ['2011', 156360284588.28000,3146747032283.74020,80748473075.48810],
+                ['2012', 155096266671.76801,3158594040566.08980,82042069394.35390],
+                ['2013', 154008029823.75000,3161935501293.33980,83210918791.19510]
+            ]);
+
+            var options = {
+                chart: {
+                    title: 'GDP',
+                    subtitle: '2010-2013',
+                },
+                colors: ['#6492D2','#37BB47','#EF9534'],
+                width: 1088,
+                height: 400
+            };
+
+            var chart = new google.visualization.AreaChart(document.getElementById('chart'));
+            chart.draw(data, options);
+        }
+
+        google.load('visualization', '1', {'packages': ['geochart']});
+        google.setOnLoadCallback(drawMarkersMap);
+
+
+        function drawMarkersMap() {
+            var data = google.visualization.arrayToDataTable([
+                ['Country', '2013 GDP', '2012 GDP'],
+                ['Czech Republic', 154008029823.75000, 155096266671.76801],
+                ['Germany', 3161935501293.33980, 3158594040566.08980],
+                ['Slovakia', 83210918791.19510, 82042069394.35390]
+            ]);
+
+            var options = {
+                sizeAxis: { minValue: 0, maxValue: 5 },
+                region: '155', // Western Europe
+                width: '1088',
+                displayMode: 'markers',
+                colorAxis: {colors: ['#6492D2', '#37BB47']}
+            };
+
+            var chart = new google.visualization.GeoChart(document.getElementById('regions'));
+            chart.draw(data, options);
+        }; 
+    </script>
+  </head>
+
+  <body>
+
+    <!-- Fixed navbar -->
+    <nav class="navbar navbar-default navbar-fixed-top">
+      <div class="container">
+        
+        <div class="navbar-header">
+          <a class="navbar-brand" href="../index.html">CAVOMD</a>
+        </div>
+
+        <div id="navbar" class="collapse navbar-collapse">
+          <ul class="nav navbar-nav">
+            <li><a href="../bigmacindex/">Big Mac Index</a></li>
+            <li class="active"><a href="../gdp/">GDP</a></li>
+            <li><a href="../inflation/">Inflation</a></li>
+            <li><a href="../unemployment/">Unemployment</a></li>            
+          </ul>
+        </div><!--/.nav-collapse -->
+
+      </div><!--/.container -->
+    </nav>
+
+
+    <!-- Begin page content -->
+    <div class="container">
+        <div class="page-header">
+            <h1>GDP</h1>
+        </div>
+        
+        <p class="lead">Gross domestic product (GDP) is defined as an aggregate measure of production equal to the sum of the gross values added of all resident, institutional units engaged in production (plus any taxes, and minus any subsidies, on products not included in the value of their outputs).</p>
+
+        
+        <!-- SUBNAV -->
+        <ul class="nav nav-tabs" role="tablist" id="subnav">
+            <li role="presentation" class="active"><a href="#table" aria-controls="table" role="tab" data-toggle="tab" data-graf="1">Table</a></li>
+            <li role="presentation"><a href="#graph" aria-controls="graph" role="tab" data-toggle="tab">Graph</a></li>
+            <li role="presentation"><a href="#map" aria-controls="map" role="tab" data-toggle="tab">Map</a></li>
+        </ul>
+
+        
+        <!-- CONTENT -->
+        <div class="content tab-content">
+
+            <div role="tabpanel" class="tab-pane active" id="table">
+                <table class="table table-hover">
+                    <thead>
+                        <tr>
+                            <th>#</th>
+                            <th>Country</th>
+                            <th>2010</th>
+                            <th>2011</th>
+                            <th>2012</th>
+                            <th>2013</th>
+                            <th>2014</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <th scope="row">1</th>
+                            <th scope="row">Czech Republic</th>
+                            <td>153348850822.11801</td>
+                            <td>156360284588.28000</td>
+                            <td>155096266671.76801</td>
+                            <td>154008029823.75000</td>
+                            <td>-</td>
+                        </tr>
+                        <tr>
+                            <th scope="row">2</th>
+                            <th scope="row">Germany</th>
+                            <td>3037693821693.27980</td>
+                            <td>3146747032283.74020</td>
+                            <td>3158594040566.08980</td>
+                            <td>3161935501293.33980</td>
+                            <td>-</td>
+                        </tr>
+                        <tr>
+                            <th scope="row">3</th>
+                            <th scope="row">Slovakia</th>
+                            <td>78622268498.94290</td>
+                            <td>80748473075.48810</td>
+                            <td>82042069394.35390</td>
+                            <td>83210918791.19510</td>
+                            <td>-</td>
+                        </tr>                                                                         
+                    </tbody>
+                </table>
+            </div><!--/.tabpanel -->
+                    
+            <!-- GRAPHS -->
+            <div role="tabpanel" class="tab-pane" id="graph">
+                <div id="chart"></div>
+            </div>
+                        
+            <div role="tabpanel" class="tab-pane" id="map">
+                <div id="regions"></div>
+            </div>
+
+        </div> <!-- END:CONTENT -->
+
+    </div><!--/.container -->
+
+
+
+    <!-- Bootstrap core JavaScript
+    ================================================== -->
+    <!-- Placed at the end of the document so the pages load faster -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+    <script src="../js/bootstrap.min.js"></script>
+
+  </body>
+</html>
