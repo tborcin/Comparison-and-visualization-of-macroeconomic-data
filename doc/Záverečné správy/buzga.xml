@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://docbook.org/xml/5.0/rng/docbook.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://docbook.org/xml/5.0/rng/docbook.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<article xmlns="http://docbook.org/ns/docbook"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="5.0">
+    <info>
+        <title>Záverečná správa</title>
+        <author>
+            <personname>Lukáš Buzga</personname>
+            <affiliation>
+                <orgname>Fakulta Informatiky, Masarykova univerzita, Brno</orgname>
+            </affiliation>
+        </author>
+    </info>
+    <section>
+        <title>Návrh projektu a rozdelenie prác</title>
+        <para>Po vytvorení štvorčlenného týmu sme sa všetci zhodli na vlastnej téme zadania a síce tému "Porovnanie a vizualizácia makroekonomických údajov". Po schválení projektu sme si rozdelili projekt na štyri časti - zber dát a prevod do XML, XSLT transformácia, tvorba webu a vizualizácia pomocou grafov a máp. Mojou úlohou bola posledná časť - vizualizácia.
+        </para>
+    </section>
+    <section>
+        <title>Vizualizácia</title>
+        <para>Na začiatku som sa rozhodoval medzi použitím Google Charts a knižniciou d3.js. Nakoniec sme sa zhodli na použití Google Charts ako nástroj na vizualizáciu získaných dát a to hlavne pre široký výber grafov, ľahkú vizualizáciu geografických dát a veľmi dobre spracovanú dokumentáciu. Pri implementácií grafov som narazil len na jeden problém. Tabuľka, graf aj mapa bola na webe v záložkach, ktoré neboli pri načítaní stránky viditeľné a tým pádom sa nevykresľovali správne legendy. Tento problém je známy a na internete je mnoho článkov ako tento problém vyriešiť. Ja som to vyriešil čisto pomocou CSS.
+        </para>
+    </section>
+    <section>
+        <title>Záver</title>
+        <para>Keďže sám pracujem ako freelancer, tak nie som veľmi zvyknutý pracovať v týme. Ako prínos považujem použitie Git-u a možnosť vyskúšať si prácu v týme na spoločnom, aj keď menšom, projekte. V budúcnosti určite plánujem využitie Google Charts na vlastný projekt.
+        </para>
+    </section>
+</article>
