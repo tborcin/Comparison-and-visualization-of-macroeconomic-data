@@ -1,0 +1,31 @@
+<beans xmlns="http://www.springframework.org/schema/beans"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.springframework.org/schema/beans 
+	http://www.springframework.org/schema/beans/spring-beans-2.5.xsd">
+ 
+    <bean name="/index.html" 
+	class="cz.muni.fi.pv138.controllers.IndexController" />
+    
+    <bean name="/raw_db.html" 
+	class="cz.muni.fi.pv138.controllers.RawDBController" />
+    
+    <bean name="/transformed_db.html" 
+	class="cz.muni.fi.pv138.controllers.TransformedDBController" />
+    
+    <bean name="/html_transformation.html" 
+	class="cz.muni.fi.pv138.controllers.HTMLTransformationController" />
+    
+    <bean name="/result.html" 
+	class="cz.muni.fi.pv138.controllers.ResultController" />
+ 
+    <bean id="viewResolver"
+    	class="org.springframework.web.servlet.view.InternalResourceViewResolver" >
+        <property name="prefix">
+            <value>/WEB-INF/pages/</value>
+        </property>
+        <property name="suffix">
+            <value>.jsp</value>
+        </property>
+    </bean>
+ 
+</beans>

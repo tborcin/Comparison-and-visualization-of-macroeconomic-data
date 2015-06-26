@@ -1,0 +1,6 @@
+cz/muni/fi/pv138/controllers/IndexController.class
+cz/muni/fi/pv138/controllers/ResultController.class
+cz/muni/fi/pv138/transformation/App.class
+cz/muni/fi/pv138/controllers/RawDBController.class
+cz/muni/fi/pv138/controllers/TransformedDBController.class
+cz/muni/fi/pv138/controllers/HTMLTransformationController.class
