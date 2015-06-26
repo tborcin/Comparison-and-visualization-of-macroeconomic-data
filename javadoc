@@ -1,3 +1,10 @@
+/**
+ * Main java class used to transform well formed database to html table and
+ * html table with selected countries
+ *
+ * @author Tomas Borcin
+ */
+
 HTMLTransformationController.java
 /**
  * html_transformation page request handler
@@ -47,4 +54,6 @@ TransformedDBController.java
  * @return
  * @throws Exception
  */
+
+
 
