@@ -1,3 +1,9 @@
+/* Program reads selected files and creates single XML file from loaded data.
+ * @param argc  number of command line arguments
+ * @param argv  enumeration of arguments, respectively enumeration of input data files
+ * @see file "database.xml"
+ */
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <float.h>
