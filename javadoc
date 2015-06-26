@@ -1,0 +1,50 @@
+HTMLTransformationController.java
+/**
+ * html_transformation page request handler
+ *
+ * @param hsr
+ * @param hsr1
+ * @return
+ * @throws Exception
+ */
+
+IndexController.java
+/**
+ * Controller used for index page
+ *
+ * @param request HttpServletRequest
+ * @param response HttpServletResponse
+ * @return
+ * @throws Exception
+ */
+
+RawDBController.java
+/**
+ * Controller used for raw_db page
+ *
+ * @param hsr HttpServletRequest
+ * @param hsr1 HttpServletResponse
+ * @return
+ * @throws Exception
+ */
+
+ResultController.java
+/**
+ * Controller used for result page
+ *
+ * @param hsr HttpServletRequest
+ * @param hsr1 HttpServletResponse
+ * @return
+ * @throws Exception
+ */
+
+TransformedDBController.java
+/**
+ * Controller used for transformed_db page
+ *
+ * @param hsr HttpServletRequest
+ * @param hsr1 HttpServletResponse
+ * @return
+ * @throws Exception
+ */
+
